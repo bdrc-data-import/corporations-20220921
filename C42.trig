@@ -1,0 +1,47 @@
+@base          <bdg:C42> .
+@prefix :      <http://purl.bdrc.io/ontology/core/> .
+@prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
+@prefix bda:   <http://purl.bdrc.io/admindata/> .
+@prefix bdg:   <http://purl.bdrc.io/graph/> .
+@prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+bdg:C42 {
+    bda:C42  a              adm:AdminData ;
+        :isRoot             true ;
+        adm:adminAbout      bdr:C42 ;
+        adm:facetIndex      5 ;
+        adm:gitPath         "f1/C42.trig" ;
+        adm:gitRepo         bda:GR0001 ;
+        adm:graphId         bdg:C42 ;
+        adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:status          bda:StatusReleased .
+    
+    bdr:C42  a              :Corporation ;
+        rdfs:comment        "sku drag family" ;
+        skos:altLabel       "bshad sgra 'og pa (sku drag)"@bo-x-ewts , "sha ra 'or pa (sku drag)"@bo-x-ewts ;
+        skos:prefLabel      "bshad sgra (sku drag)"@bo-x-ewts ;
+        :corporationHasMember  bdr:CM124C25065BB07497 , bdr:CM1670FECB59007342 , bdr:CM334574195847D5EC , bdr:CMDC0335E1ABA89F7A ;
+        :isRoot             true .
+    
+    bdr:CM124C25065BB07497
+        a                   :CorporationMemberUnknown ;
+        :corporationMember  bdr:P6694 .
+    
+    bdr:CM1670FECB59007342
+        a                   :CorporationMemberUnknown ;
+        :corporationMember  bdr:P6721 .
+    
+    bdr:CM334574195847D5EC
+        a                   :CorporationMemberUnknown ;
+        :corporationMember  bdr:P6733 .
+    
+    bdr:CMDC0335E1ABA89F7A
+        a                   :CorporationMemberUnknown ;
+        :corporationMember  bdr:P6081 .
+}
