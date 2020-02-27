@@ -52,7 +52,7 @@ bdg:C2CN10996 {
     
     bdr:NTA09AC97F9C0F797D
         a                   :Note ;
-        :locationStatement  "p. 6" ;
+        :contentLocationStatement  "p. 6" ;
         :noteSource         bdr:MW22359 ;
         :noteText           "'di yang mgo log dbang mda'm gyi ling sang du 'khrungs pa'i ka thog mkhan po gyi ling thugs mchog rdo rje'i dbon brgyud la go"@bo-x-ewts .
     

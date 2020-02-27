@@ -31,7 +31,7 @@ bdg:C54 {
     
     bdr:NT06057F5AC9600985
         a                   :Note ;
-        :locationStatement  "p. 31" ;
+        :contentLocationStatement  "p. 31" ;
         :noteSource         bdr:MW20234 ;
         :noteText           "the major estate of the zhwa sgab pa family was located in tsha rag shang of chu shur rdzong lha sa sa khul\nthere is a village called zhwa sgab grong tsho located in tsha rag shang\nthe family is the chief patron (dgon bdag) of the g.ya' sngon dgon, a rnying ma pa nunnery"@en .
 }

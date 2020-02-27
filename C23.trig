@@ -36,7 +36,7 @@ bdg:C23 {
     
     bdr:NTF0CD6C60553C4C0C
         a                   :Note ;
-        :locationStatement  "p. 110" ;
+        :contentLocationStatement  "p. 110" ;
         :noteSource         bdr:MW20167 ;
         :noteText           "name comes from the family estate in rong\nalso called ram pa khang gsar\nfamily never played a great role in tibetan politics\nin 1954 the ramily was dying out; the only male member then alive had donated all his property to the stag brag rin po che, then regent"@en .
 }

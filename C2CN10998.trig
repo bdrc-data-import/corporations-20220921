@@ -74,7 +74,7 @@ bdg:C2CN10998 {
     
     bdr:NT9E8A064CCD8BAD88
         a                   :Note ;
-        :locationStatement  "p. 154" ;
+        :contentLocationStatement  "p. 154" ;
         :noteSource         bdr:MW7499 ;
         :noteText           "one of the early four divisions of family clans in tibet"@en .
     

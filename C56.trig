@@ -30,7 +30,7 @@ bdg:C56 {
     
     bdr:NT988E1040CD66C4F7
         a                   :Note ;
-        :locationStatement  "p. 117" ;
+        :contentLocationStatement  "p. 117" ;
         :noteSource         bdr:MW20279 ;
         :noteText           "college (grwa tshang) of se ra monastery\nthis college has 17 residential houses (khams tshan)\nin 1959 the monastery had 5629 monks, 69 incarnate lamas, 10 ri khrod, and 10 dgon lag to which teachers and administrators were sent"@en .
 }

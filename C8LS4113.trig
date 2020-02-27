@@ -36,7 +36,7 @@ bdg:C8LS4113 {
     
     bdr:NT6F613B82350CDB65
         a                   :Note ;
-        :locationStatement  "pp. 14-20" ;
+        :contentLocationStatement  "pp. 14-20" ;
         :noteSource         bdr:MW1PD96945 ;
         :noteText           "also see aristocracy and government in tibet(1728-1959) by luciano petech, pp. 48, 88, 97, 183, 226"@en .
 }

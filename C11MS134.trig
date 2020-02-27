@@ -52,7 +52,7 @@ bdg:C11MS134 {
     
     bdr:NT5313FEED3B39F01A
         a                   :Note ;
-        :locationStatement  "v. 01, p. 225-235" ;
+        :contentLocationStatement  "v. 01, p. 225-235" ;
         :noteSource         bdr:MW23723 ;
         :noteText           "see the khyung po'i gdung rabs"@en .
     
@@ -62,7 +62,7 @@ bdg:C11MS134 {
     
     bdr:NT5E8AAB0DA3573F95
         a                   :Note ;
-        :locationStatement  "v. 06, p. 425-441" ;
+        :contentLocationStatement  "v. 06, p. 425-441" ;
         :noteSource         bdr:MW1PD96945 ;
         :noteText           "on history of the ancestral decendents of the white, black, and yellow khyung po from the 39 tribes, branching from the nag ru chieftan - khyung po dkar nag gser gsum"@en .
     

@@ -59,13 +59,13 @@ bdg:C1KT11 {
     
     bdr:NT7705CFD43603017A
         a                   :Note ;
-        :locationStatement  "p. 10" ;
+        :contentLocationStatement  "p. 10" ;
         :noteSource         bdr:MW1KG6089 ;
         :noteText           "Family of gnya' ba chos bzang, one of the 9 Learned Tibetan physicians (bod sman mkhas pa mi dgu) from court of Tri Songdetsen"@en .
     
     bdr:NTEEC817C37305E16D
         a                   :Note ;
-        :locationStatement  "p. 301-302" ;
+        :contentLocationStatement  "p. 301-302" ;
         :noteSource         bdr:MW17722 ;
         :noteText           "Considered ancestor of physicians in the Lhunding (lhun sdings) lineage of the Jangluk school (byang lugs) of medicine"@en .
 }

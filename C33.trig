@@ -37,7 +37,7 @@ bdg:C33 {
     
     bdr:NT72C4B5D9BE2A5DF6
         a                   :Note ;
-        :locationStatement  "p. 132" ;
+        :contentLocationStatement  "p. 132" ;
         :noteSource         bdr:MW20167 ;
         :noteText           "family was a descendant of the ancient royal dynasty and governed upper nyang (nyang stod)\naccording to source he bore the title 'brog btsan (called bronze by the italian missionaries)\nnormal title was sde pa"@en .
 }

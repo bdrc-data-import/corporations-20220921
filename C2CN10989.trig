@@ -50,7 +50,7 @@ bdg:C2CN10989 {
     
     bdr:NTA6F74D41C764A1D3
         a                   :Note ;
-        :locationStatement  "p. 807" ;
+        :contentLocationStatement  "p. 807" ;
         :noteSource         bdr:MW19803 ;
         :noteText           "'di ni thu'u bkwan blo bzang chos kyi nyi ma'i 'khrungs sa ste/ a mdo pho rod lang gru'i phyogs phun tshogs gling lung pa'i pra sti'i rigs su 'khrungs par gsal/\nda dung thu'u bkwan bzhi pa dang bra ti dge bshes sogs dang yang rigs brgyud 'brel ba yod nges zhib rtsad rjes nas dgos rgyu/"@en .
     

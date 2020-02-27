@@ -31,7 +31,7 @@ bdg:C55 {
     
     bdr:NTB7FC8A9565339AB5
         a                   :Note ;
-        :locationStatement  "p. 31" ;
+        :contentLocationStatement  "p. 31" ;
         :noteSource         bdr:MW20234 ;
         :noteText           "this bla brang administered the rnying ma pa monastery of ri sna dgon, located in lcang can grong tsho, tsha rag shang, chu shur rdzong, lha sa prefecture"@en .
 }

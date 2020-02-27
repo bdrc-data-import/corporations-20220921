@@ -37,7 +37,7 @@ bdg:C11MS140 {
     
     bdr:NT13DE98B9B0458CE2
         a                   :Note ;
-        :locationStatement  "p. 154" ;
+        :contentLocationStatement  "p. 154" ;
         :noteSource         bdr:MW7499 ;
         :noteText           "one of the early six divisions of family clans in tibet"@en .
 }

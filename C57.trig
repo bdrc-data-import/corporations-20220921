@@ -31,7 +31,7 @@ bdg:C57 {
     
     bdr:NT82974FE14BDF8D86
         a                   :Note ;
-        :locationStatement  "p. 117" ;
+        :contentLocationStatement  "p. 117" ;
         :noteSource         bdr:MW20279 ;
         :noteText           "this college had 2,695 monks in 1959 with 38 incarnations\nit sent teaching and administrative heads to 5 ri khrod and 23 dgon lag"@en .
 }

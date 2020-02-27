@@ -45,7 +45,7 @@ bdg:C34 {
     
     bdr:NTA7535B8870BC8088
         a                   :Note ;
-        :locationStatement  "p. 133" ;
+        :contentLocationStatement  "p. 133" ;
         :noteSource         bdr:MW20167 ;
         :noteText           "family estate is in the district of shel dkar rdzong"@en .
 }

@@ -59,7 +59,7 @@ bdg:C71 {
     
     bdr:NT75F745B61DD0C7FD
         a                   :Note ;
-        :locationStatement  "p. 154" ;
+        :contentLocationStatement  "p. 154" ;
         :noteSource         bdr:MW7499 ;
         :noteText           "one of the early four divisions of family clans in tibet"@en .
 }

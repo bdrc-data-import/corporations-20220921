@@ -42,7 +42,7 @@ bdg:C2CN10974 {
     
     bdr:NT06B798BE81660218
         a                   :Note ;
-        :locationStatement  "1898" ;
+        :contentLocationStatement  "1898" ;
         :noteSource         bdr:MW19801 ;
         :noteText           "a kyA sku phreng dang po shes rab bzang po ni sku 'bum mchod gzhis zi na kha yog gzhung lnga'i nang tshan li bshu sde ba'i a tshang du 'khrungs par gsal/"@en .
     

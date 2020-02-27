@@ -63,7 +63,7 @@ bdg:C1TD36 {
     
     bdr:NT3B10B749A977E6D4
         a                   :Note ;
-        :locationStatement  "p. 521 in Historical Dictionary of Tibet, John Powers and David Templeman" ;
+        :contentLocationStatement  "p. 521 in Historical Dictionary of Tibet, John Powers and David Templeman" ;
         :noteText           "\"The dynasty that ruled Tibet following the demise of Sa skya power in 1350. Its heirarchs claimed descent from the ancient rLangs clan of the Imperium's monarchs. Byang chub rgyal mtshan (1302-1364) was placed in charge of the Phag mo gru estates. These were owned by Sa skya but were in a state of insolvency when he was appointed. He was an outstanding administrator and returned them to profitability but later fought against his former superiors... in 1350 he displaced the Sa skya heirarchs and became the ruler of Tibet.\""@en .
     
     bdr:NT6532C0610D32A3B6

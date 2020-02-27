@@ -55,7 +55,7 @@ bdg:C11MS138 {
     
     bdr:NT0BA9AF83B21E90D3
         a                   :Note ;
-        :locationStatement  "p. 154" ;
+        :contentLocationStatement  "p. 154" ;
         :noteSource         bdr:MW7499 ;
         :noteText           "one of the early four divisions of family clans in tibet"@en .
     

@@ -35,7 +35,7 @@ bdg:C1AG86 {
     
     bdr:NT189ECE5792331791
         a                   :Note ;
-        :locationStatement  "vol 8 pp. 319-356" ;
+        :contentLocationStatement  "vol 8 pp. 319-356" ;
         :noteSource         bdr:MW1PD96945 ;
         :noteText           "history of the khang gsar clan of dkar mdzes"@en .
 }

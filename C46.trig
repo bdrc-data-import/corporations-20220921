@@ -40,7 +40,7 @@ bdg:C46 {
     
     bdr:NT71DF87A4D4BB4C02
         a                   :Note ;
-        :locationStatement  "p. 200" ;
+        :contentLocationStatement  "p. 200" ;
         :noteSource         bdr:MW20167 ;
         :noteText           "one of the foremost families of gtsang\nfrom the village of lcang lo can near rgyal rtse\ndescended from si tu rab brtan kun bzang 'phags"@en .
 }

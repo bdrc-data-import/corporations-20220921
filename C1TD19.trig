@@ -45,7 +45,7 @@ bdg:C1TD19 {
     
     bdr:NT078B68634094C83D
         a                   :Note ;
-        :locationStatement  "p.208" ;
+        :contentLocationStatement  "p.208" ;
         :noteSource         bdr:MW1KG6057 ;
         :noteText           "along with the spom mda' tshang and Reting estate, was one of the three largest trading family firms of 20th century Tibet\n\na trading family from Kandze area in Kham that settled in Lhasa"@en .
 }
