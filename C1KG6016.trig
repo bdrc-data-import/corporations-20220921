@@ -31,7 +31,8 @@ bdg:C1KG6016 {
     
     bda:LGA2A4D8578D8B74F3
         a                   adm:LogEntry ;
-        adm:logDate         "2010-09-17T15:06:19.985Z"^^xsd:dateTime ;
+        adm:logDate         "2020-04-16T08:55:10.581Z"^^xsd:dateTime ;
+        adm:logMessage      "changed provisional to released"@en ;
         adm:logWho          bdr:U00016 .
     
     bdr:C1KG6016  a         :Corporation ;
