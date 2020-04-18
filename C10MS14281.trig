@@ -15,19 +15,25 @@ bdg:C10MS14281 {
     bda:C10MS14281  a       adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C10MS14281 ;
-        adm:facetIndex      2 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "10/C10MS14281.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C10MS14281 ;
-        adm:logEntry        bda:LG0432D6F0AD50769C ;
+        adm:logEntry        bda:LG0432D6F0AD50769C , bda:LG13BAB84E258D532E ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
-        adm:status          bda:StatusProvisional .
+        adm:status          bda:StatusReleased .
     
     bda:LG0432D6F0AD50769C
         a                   adm:LogEntry ;
         adm:logDate         "2012-06-15T11:36:11.28Z"^^xsd:dateTime ;
         adm:logMessage      "created new corporation"@en ;
         adm:logWho          bdr:U00020 .
+    
+    bda:LG13BAB84E258D532E
+        a                   adm:LogEntry ;
+        adm:logDate         "2020-04-17T16:30:29.567Z"^^xsd:dateTime ;
+        adm:logMessage      "changed provisional to released"@en ;
+        adm:logWho          bdr:U00016 .
     
     bdr:C10MS14281  a       :Corporation ;
         rdfs:comment        "the seat of the government of the dalai lamas in lhasa. the palace, at 'bras spungs monastery, was given to the second dala'i lama, dge 'dun rgya mtsho, by the phag mo gru pa heirarch in 1518." ;
