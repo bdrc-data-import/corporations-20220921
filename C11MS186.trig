@@ -46,8 +46,7 @@ bdg:C11MS186 {
         skos:prefLabel      "gro/"@bo-x-ewts , "Dro"@en-x-mixed ;
         :corporationHasMember  bdr:CMA2A42918AA5035CD ;
         :isRoot             true ;
-        :note               bdr:NTF8E10AA91500B5B0 ;
-        adm:seeOtherToL     "https://www.treasuryoflives.org/institution/Dro"^^xsd:anyURI .
+        :note               bdr:NTF8E10AA91500B5B0 .
     
     bdr:CMA2A42918AA5035CD
         a                   :CorporationMemberNotSpecified ;
