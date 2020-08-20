@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,24 +15,29 @@ bdg:C20 {
     bda:C20  a              adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C20 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "41/C20.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C20 ;
+        adm:logEntry        bda:LG7A178CA96EAD4A73 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:LG7A178CA96EAD4A73
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
     
     bdr:C20  a              :Corporation ;
         rdfs:comment        "sku drag family" ;
         skos:prefLabel      "nga phod (sku drag)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CM7A178CA96EAD4A73 , bdr:CMDCF3FFCEB72FFF86 ;
+        :corporationHasMember  bdr:CMB0294F592F357088 , bdr:CMDCF3FFCEB72FFF86 ;
         :isRoot             true .
     
-    bdr:CM7A178CA96EAD4A73
-        a                   :CorporationMemberUnknown ;
-        :corporationMember  bdr:P6704 .
-    
-    bdr:CMDCF3FFCEB72FFF86
+    bdr:CMB0294F592F357088
         a                   :CorporationMemberMarriage ;
         :corporationMember  bdr:P6717 .
+    
+    bdr:CMDCF3FFCEB72FFF86
+        a                   :CorporationMemberUnknown ;
+        :corporationMember  bdr:P6704 .
 }

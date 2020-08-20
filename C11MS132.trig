@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -23,16 +24,16 @@ bdg:C11MS132 {
         adm:status          bda:StatusReleased .
     
     bda:LG50C13016AF08C2B5
-        a                   adm:LogEntry ;
+        a                   adm:InitialDataCreation ;
         adm:logDate         "2014-07-21T16:15:03.106Z"^^xsd:dateTime ;
         adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00020 .
+        adm:logWho          bdu:U00020 .
     
     bda:LG7B8F993266DA49C6
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2014-10-23T16:59:09.441Z"^^xsd:dateTime ;
         adm:logMessage      "added note"@en ;
-        adm:logWho          bdr:U00020 .
+        adm:logWho          bdu:U00020 .
     
     bdr:C11MS132  a         :Corporation ;
         skos:prefLabel      "g.yu sgra/"@bo-x-ewts ;

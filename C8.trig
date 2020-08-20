@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,87 +15,91 @@ bdg:C8 {
     bda:C8  a               adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C8 ;
-        adm:facetIndex      18 ;
+        adm:facetIndex      19 ;
         adm:gitPath         "72/C8.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C8 ;
-        adm:logEntry        bda:LG54158DCE244BD38C ;
+        adm:logEntry        bda:LG25FB1B285636684B , bda:LG54158DCE244BD38C ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
+    bda:LG25FB1B285636684B
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
+    
     bda:LG54158DCE244BD38C
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2010-03-18T14:59:07.808Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00019 .
+        adm:logWho          bdu:U00019 .
     
     bdr:C8  a               :Corporation ;
         rdfs:comment        "sde dpon family" ;
         skos:altLabel       "rdo ring (sde dpon)"@bo-x-ewts ;
         skos:prefLabel      "dga' bzhi (sde dpon)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CM10140824F6CA06EE , bdr:CM25FB1B285636684B , bdr:CM267208A255CF48C8 , bdr:CM325968A62E40D87A , bdr:CM465B144A0ABDCA7C , bdr:CM599B014FB9C3038C , bdr:CM5CC40FC3B8248180 , bdr:CM5E3AD886D51BD709 , bdr:CM65C394A74211A1B6 , bdr:CM78C4F6E725A1D65C , bdr:CM9BC73220BEAE3BF5 , bdr:CMAC5B392A9264D43E , bdr:CMACB3E44BBCAE9C8A , bdr:CMD20E0B84E7FB33BE , bdr:CMEBCF6AECEC3D0A53 ;
+        :corporationHasMember  bdr:CM10140824F6CA06EE , bdr:CM267208A255CF48C8 , bdr:CM325968A62E40D87A , bdr:CM465B144A0ABDCA7C , bdr:CM576EAFB38DF07911 , bdr:CM599B014FB9C3038C , bdr:CM5CC40FC3B8248180 , bdr:CM5E3AD886D51BD709 , bdr:CM65C394A74211A1B6 , bdr:CM78C4F6E725A1D65C , bdr:CM9BC73220BEAE3BF5 , bdr:CMAC5B392A9264D43E , bdr:CMACB3E44BBCAE9C8A , bdr:CMD20E0B84E7FB33BE , bdr:CMEBCF6AECEC3D0A53 ;
         :corporationRegion  bdr:G934 ;
         :isRoot             true ;
         :note               bdr:NT712985D633D0CF95 .
     
     bdr:CM10140824F6CA06EE
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS185 .
-    
-    bdr:CM25FB1B285636684B
-        a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS186 .
+        :corporationMember  bdr:P2LS195 .
     
     bdr:CM267208A255CF48C8
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS192 .
+        :corporationMember  bdr:P2LS191 .
     
     bdr:CM325968A62E40D87A
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS219 .
+        :corporationMember  bdr:P2LS218 .
     
     bdr:CM465B144A0ABDCA7C
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS218 .
+        :corporationMember  bdr:P2LS217 .
+    
+    bdr:CM576EAFB38DF07911
+        a                   :CorporationMemberNotSpecified ;
+        :corporationMember  bdr:P2LS219 .
     
     bdr:CM599B014FB9C3038C
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS195 .
+        :corporationMember  bdr:P2LS194 .
     
     bdr:CM5CC40FC3B8248180
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS217 .
+        :corporationMember  bdr:P2LS216 .
     
     bdr:CM5E3AD886D51BD709
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS190 .
+        :corporationMember  bdr:P2LS189 .
     
     bdr:CM65C394A74211A1B6
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS191 .
+        :corporationMember  bdr:P2LS190 .
     
     bdr:CM78C4F6E725A1D65C
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS188 .
+        :corporationMember  bdr:P2LS187 .
     
     bdr:CM9BC73220BEAE3BF5
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS189 .
+        :corporationMember  bdr:P2LS188 .
     
     bdr:CMAC5B392A9264D43E
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS216 .
+        :corporationMember  bdr:P2LS185 .
     
     bdr:CMACB3E44BBCAE9C8A
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS194 .
+        :corporationMember  bdr:P2LS193 .
     
     bdr:CMD20E0B84E7FB33BE
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS193 .
+        :corporationMember  bdr:P2LS192 .
     
     bdr:CMEBCF6AECEC3D0A53
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS187 .
+        :corporationMember  bdr:P2LS186 .
     
     bdr:NT712985D633D0CF95
         a                   :Note ;

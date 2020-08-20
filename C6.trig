@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,67 +15,71 @@ bdg:C6 {
     bda:C6  a               adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C6 ;
-        adm:facetIndex      13 ;
+        adm:facetIndex      14 ;
         adm:gitPath         "7e/C6.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C6 ;
-        adm:logEntry        bda:LG9CA03E35F9910E7A ;
+        adm:logEntry        bda:LG92B17FB3ED64C0C3 , bda:LG9CA03E35F9910E7A ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
+    bda:LG92B17FB3ED64C0C3
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
+    
     bda:LG9CA03E35F9910E7A
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2010-03-18T14:59:05.25Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00019 .
+        adm:logWho          bdu:U00019 .
     
     bdr:C6  a               :Corporation ;
         rdfs:comment        "yab gzhis family" ;
         skos:altLabel       "lha klu dga' tshal 1 (yab gzhis)"@bo-x-ewts ;
         skos:prefLabel      "lha klu 1 (yab gzhis)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CM0C5085FB0E816B2B , bdr:CM2DFDAA7CF7EE0449 , bdr:CM55F3E7DFE915DA81 , bdr:CM57C21E138064654B , bdr:CM92B17FB3ED64C0C3 , bdr:CM99D9BA804AF852B3 , bdr:CM9CEB99C5249430EE , bdr:CMC41D86D7FF1302D5 , bdr:CMD2CA745A40ABA0AE , bdr:CMF634F4A19EEE0D18 ;
+        :corporationHasMember  bdr:CM0C5085FB0E816B2B , bdr:CM2DFDAA7CF7EE0449 , bdr:CM55F3E7DFE915DA81 , bdr:CM57C21E138064654B , bdr:CM99D9BA804AF852B3 , bdr:CM9CEB99C5249430EE , bdr:CMC33B78F26B44DF7A , bdr:CMC41D86D7FF1302D5 , bdr:CMD2CA745A40ABA0AE , bdr:CMF634F4A19EEE0D18 ;
         :corporationRegion  bdr:G11101 ;
         :isRoot             true ;
         :note               bdr:NT14CFFFC6899F6F72 .
     
     bdr:CM0C5085FB0E816B2B
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS173 .
+        :corporationMember  bdr:P2LS172 .
     
     bdr:CM2DFDAA7CF7EE0449
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS174 .
+        :corporationMember  bdr:P2LS173 .
     
     bdr:CM55F3E7DFE915DA81
-        a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS172 .
-    
-    bdr:CM57C21E138064654B
-        a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS177 .
-    
-    bdr:CM92B17FB3ED64C0C3
         a                   :CorporationMemberBlood ;
         :corporationMember  bdr:P109 .
     
-    bdr:CM99D9BA804AF852B3
+    bdr:CM57C21E138064654B
         a                   :CorporationMemberNotSpecified ;
         :corporationMember  bdr:P2LS176 .
     
-    bdr:CM9CEB99C5249430EE
+    bdr:CM99D9BA804AF852B3
         a                   :CorporationMemberNotSpecified ;
         :corporationMember  bdr:P2LS175 .
     
-    bdr:CMC41D86D7FF1302D5
+    bdr:CM9CEB99C5249430EE
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS178 .
+        :corporationMember  bdr:P2LS174 .
     
-    bdr:CMD2CA745A40ABA0AE
+    bdr:CMC33B78F26B44DF7A
         a                   :CorporationMemberNotSpecified ;
         :corporationMember  bdr:P323 .
     
-    bdr:CMF634F4A19EEE0D18
+    bdr:CMC41D86D7FF1302D5
+        a                   :CorporationMemberNotSpecified ;
+        :corporationMember  bdr:P2LS177 .
+    
+    bdr:CMD2CA745A40ABA0AE
         a                   :CorporationMemberNotSpecified ;
         :corporationMember  bdr:P285 .
+    
+    bdr:CMF634F4A19EEE0D18
+        a                   :CorporationMemberNotSpecified ;
+        :corporationMember  bdr:P2LS178 .
     
     bdr:NT14CFFFC6899F6F72
         a                   :Note ;

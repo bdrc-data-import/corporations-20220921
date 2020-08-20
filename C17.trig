@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,65 +15,69 @@ bdg:C17 {
     bda:C17  a              adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C17 ;
-        adm:facetIndex      11 ;
+        adm:facetIndex      12 ;
         adm:gitPath         "5e/C17.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C17 ;
-        adm:logEntry        bda:LG01D35C93ADFDB3E4 , bda:LG05DB00C65AD69264 , bda:LG38B2A5EF81A270FF , bda:LG6AC7BBCE666D09A2 , bda:LG797E0B2016FE9916 ;
+        adm:logEntry        bda:LG01D35C93ADFDB3E4 , bda:LG05DB00C65AD69264 , bda:LG38B2A5EF81A270FF , bda:LG6AC7BBCE666D09A2 , bda:LG7874C2DDF213AA61 , bda:LG797E0B2016FE9916 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
     bda:LG01D35C93ADFDB3E4
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2010-03-18T14:58:58.124Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00019 .
+        adm:logWho          bdu:U00019 .
     
     bda:LG05DB00C65AD69264
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2009-06-11T09:35:53.89Z"^^xsd:dateTime ;
         adm:logMessage      "added note"@en ;
-        adm:logWho          bdr:U00001 .
+        adm:logWho          bdu:U00001 .
     
     bda:LG38B2A5EF81A270FF
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2009-06-11T14:45:28.417Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00001 .
+        adm:logWho          bdu:U00001 .
     
     bda:LG6AC7BBCE666D09A2
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logMessage      "added member and note"@en ;
-        adm:logWho          bdr:U00019 .
+        adm:logWho          bdu:U00019 .
+    
+    bda:LG7874C2DDF213AA61
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
     
     bda:LG797E0B2016FE9916
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2009-06-11T14:37:42.635Z"^^xsd:dateTime ;
         adm:logMessage      "added region"@en ;
-        adm:logWho          bdr:U00001 .
+        adm:logWho          bdu:U00001 .
     
     bdr:C17  a              :Corporation ;
         rdfs:comment        "sku drag family" ;
         skos:altLabel       "kun bzang rtse (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "khe smad (sku drag)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CM377FC57B7783F984 , bdr:CM7874C2DDF213AA61 , bdr:CMDC29D5DF5A840984 , bdr:CMFCFC385EDD6F8283 ;
+        :corporationHasMember  bdr:CM377FC57B7783F984 , bdr:CMC7956ADF01FCE4AF , bdr:CMDC29D5DF5A840984 , bdr:CMFCFC385EDD6F8283 ;
         :corporationRegion  bdr:G4802 ;
         :isRoot             true ;
         :note               bdr:NT741393FD8B383549 .
     
     bdr:CM377FC57B7783F984
-        a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS257 .
-    
-    bdr:CM7874C2DDF213AA61
         a                   :CorporationMemberUnknown ;
         :corporationMember  bdr:P2332 .
     
+    bdr:CMC7956ADF01FCE4AF
+        a                   :CorporationMemberNotSpecified ;
+        :corporationMember  bdr:P2LS259 .
+    
     bdr:CMDC29D5DF5A840984
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS258 .
+        :corporationMember  bdr:P2LS257 .
     
     bdr:CMFCFC385EDD6F8283
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS259 .
+        :corporationMember  bdr:P2LS258 .
     
     bdr:NT741393FD8B383549
         a                   :Note ;

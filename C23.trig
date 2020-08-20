@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,22 +15,27 @@ bdg:C23 {
     bda:C23  a              adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C23 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "83/C23.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C23 ;
+        adm:logEntry        bda:LG45C577020AB020A5 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:LG45C577020AB020A5
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
     
     bdr:C23  a              :Corporation ;
         rdfs:comment        "sku drag family" ;
         skos:altLabel       "ram pa khang gsar (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "bde skyid gling (sku drag)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CM45C577020AB020A5 ;
+        :corporationHasMember  bdr:CMB904C65678AE2F08 ;
         :isRoot             true ;
         :note               bdr:NTF0CD6C60553C4C0C .
     
-    bdr:CM45C577020AB020A5
+    bdr:CMB904C65678AE2F08
         a                   :CorporationMemberUnknown ;
         :corporationMember  bdr:P6702 .
     

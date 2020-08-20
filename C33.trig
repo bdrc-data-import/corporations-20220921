@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,23 +15,28 @@ bdg:C33 {
     bda:C33  a              adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C33 ;
-        adm:facetIndex      3 ;
+        adm:facetIndex      4 ;
         adm:gitPath         "85/C33.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C33 ;
+        adm:logEntry        bda:LGABE3399A7CA73900 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
+    
+    bda:LGABE3399A7CA73900
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
     
     bdr:C33  a              :Corporation ;
         rdfs:comment        "sku drag family" ;
         skos:altLabel       "'brong mkhar rtse pa (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "'brong rtse (sku drag)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CMABE3399A7CA73900 ;
+        :corporationHasMember  bdr:CME7A8D6F1350781C9 ;
         :corporationRegion  bdr:G971 ;
         :isRoot             true ;
         :note               bdr:NT72C4B5D9BE2A5DF6 .
     
-    bdr:CMABE3399A7CA73900
+    bdr:CME7A8D6F1350781C9
         a                   :CorporationMemberUnknown ;
         :corporationMember  bdr:P6923 .
     

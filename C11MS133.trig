@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -23,22 +24,22 @@ bdg:C11MS133 {
         adm:status          bda:StatusReleased .
     
     bda:LG0BA793318D41B903
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2014-07-23T14:11:00.408Z"^^xsd:dateTime ;
         adm:logMessage      "added members"@en ;
-        adm:logWho          bdr:U00020 .
+        adm:logWho          bdu:U00020 .
     
     bda:LG2155A7EB0717779F
-        a                   adm:LogEntry ;
+        a                   adm:InitialDataCreation ;
         adm:logDate         "2014-07-21T16:27:05.266Z"^^xsd:dateTime ;
         adm:logMessage      "created"@en ;
-        adm:logWho          bdr:U00020 .
+        adm:logWho          bdu:U00020 .
     
     bda:LG527812D6A75B4A97
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2014-10-23T16:58:31.521Z"^^xsd:dateTime ;
         adm:logMessage      "added note"@en ;
-        adm:logWho          bdr:U00020 .
+        adm:logWho          bdu:U00020 .
     
     bdr:C11MS133  a         :Corporation ;
         skos:prefLabel      "smug po ldong /"@bo-x-ewts ;

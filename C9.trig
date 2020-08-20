@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,59 +15,63 @@ bdg:C9 {
     bda:C9  a               adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C9 ;
-        adm:facetIndex      11 ;
+        adm:facetIndex      12 ;
         adm:gitPath         "ef/C9.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C9 ;
-        adm:logEntry        bda:LGA1DA91FD13D43334 ;
+        adm:logEntry        bda:LG2141B17456380C81 , bda:LGA1DA91FD13D43334 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
+    bda:LG2141B17456380C81
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
+    
     bda:LGA1DA91FD13D43334
-        a                   adm:LogEntry ;
+        a                   adm:UpdateData ;
         adm:logDate         "2010-03-18T14:59:09.101Z"^^xsd:dateTime ;
-        adm:logWho          bdr:U00019 .
+        adm:logWho          bdu:U00019 .
     
     bdr:C9  a               :Corporation ;
         rdfs:comment        "sde dpon family" ;
         skos:altLabel       "bla brang rnying pa (sde dpon)"@bo-x-ewts ;
         skos:prefLabel      "thon pa (sde dpon)"@bo-x-ewts ;
-        :corporationHasMember  bdr:CM2141B17456380C81 , bdr:CM706EADB9C0474773 , bdr:CM7346D0ACBFB18C3F , bdr:CM765E38C5A6902D4E , bdr:CM9F8A4C09EA8454B7 , bdr:CMB772F1D183F60E39 , bdr:CMC8549435B30027E8 , bdr:CMCFA24511660ABACE ;
+        :corporationHasMember  bdr:CM2F5AFEBD255CE299 , bdr:CM706EADB9C0474773 , bdr:CM7346D0ACBFB18C3F , bdr:CM765E38C5A6902D4E , bdr:CM9F8A4C09EA8454B7 , bdr:CMB772F1D183F60E39 , bdr:CMC8549435B30027E8 , bdr:CMCFA24511660ABACE ;
         :corporationRegion  bdr:G3600 ;
         :isRoot             true ;
         :note               bdr:NTA167ED4EDA5788E5 .
     
-    bdr:CM2141B17456380C81
+    bdr:CM2F5AFEBD255CE299
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS196 .
+        :corporationMember  bdr:P2LS220 .
     
     bdr:CM706EADB9C0474773
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS202 .
+        :corporationMember  bdr:P2LS201 .
     
     bdr:CM7346D0ACBFB18C3F
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS198 .
+        :corporationMember  bdr:P2LS197 .
     
     bdr:CM765E38C5A6902D4E
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS201 .
+        :corporationMember  bdr:P2LS200 .
     
     bdr:CM9F8A4C09EA8454B7
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS197 .
+        :corporationMember  bdr:P2LS196 .
     
     bdr:CMB772F1D183F60E39
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS199 .
+        :corporationMember  bdr:P2LS198 .
     
     bdr:CMC8549435B30027E8
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS200 .
+        :corporationMember  bdr:P2LS199 .
     
     bdr:CMCFA24511660ABACE
         a                   :CorporationMemberNotSpecified ;
-        :corporationMember  bdr:P2LS220 .
+        :corporationMember  bdr:P2LS202 .
     
     bdr:NTA167ED4EDA5788E5
         a                   :Note ;

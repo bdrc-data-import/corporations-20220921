@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -14,20 +15,25 @@ bdg:C70 {
     bda:C70  a              adm:AdminData ;
         :isRoot             true ;
         adm:adminAbout      bdr:C70 ;
-        adm:facetIndex      2 ;
+        adm:facetIndex      3 ;
         adm:gitPath         "31/C70.trig" ;
         adm:gitRepo         bda:GR0001 ;
         adm:graphId         bdg:C70 ;
+        adm:logEntry        bda:LGBCEDD3AA988F6A71 ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
         adm:status          bda:StatusReleased .
     
+    bda:LGBCEDD3AA988F6A71
+        a                   adm:InitialDataCreation ;
+        adm:logWho          bdu:U00001 .
+    
     bdr:C70  a              :Corporation ;
         skos:prefLabel      "mgo tsha tshang /"@bo-x-ewts ;
-        :corporationHasMember  bdr:CMBCEDD3AA988F6A71 ;
+        :corporationHasMember  bdr:CME9A856154B9528DD ;
         :corporationRegion  bdr:G2738 ;
         :isRoot             true .
     
-    bdr:CMBCEDD3AA988F6A71
+    bdr:CME9A856154B9528DD
         a                   :CorporationMemberBlood ;
         :corporationMember  bdr:P6966 .
 }
