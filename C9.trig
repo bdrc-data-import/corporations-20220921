@@ -42,35 +42,35 @@ bdg:C9 {
         :note               bdr:NTA167ED4EDA5788E5 .
     
     bdr:CM2F5AFEBD255CE299
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS220 .
     
     bdr:CM706EADB9C0474773
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS201 .
     
     bdr:CM7346D0ACBFB18C3F
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS197 .
     
     bdr:CM765E38C5A6902D4E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS200 .
     
     bdr:CM9F8A4C09EA8454B7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS196 .
     
     bdr:CMB772F1D183F60E39
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS198 .
     
     bdr:CMC8549435B30027E8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS199 .
     
     bdr:CMCFA24511660ABACE
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS202 .
     
     bdr:NTA167ED4EDA5788E5

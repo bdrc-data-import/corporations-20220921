@@ -36,7 +36,7 @@ bdg:C11MS182 {
         :note               bdr:NT3E2D2C01205A7B92 .
     
     bdr:CM446B4F68C55BF40B
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P00AG02484 .
     
     bdr:NT3E2D2C01205A7B92

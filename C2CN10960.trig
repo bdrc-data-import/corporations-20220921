@@ -42,7 +42,7 @@ bdg:C2CN10960 {
         :note               bdr:NT4ADB247427B1303E , bdr:NTDA63ECE27CC41E30 .
     
     bdr:CM674D12445BCE8DBA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2387 .
     
     bdr:NT4ADB247427B1303E

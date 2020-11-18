@@ -43,11 +43,11 @@ bdg:C2CN10995 {
         :note               bdr:NT518BB4572DD15175 , bdr:NTE594AEB0E5E1913A .
     
     bdr:CM4AC16B8962602B80
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6003 .
     
     bdr:CM9F047A3EC8770705
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6004 .
     
     bdr:NT518BB4572DD15175

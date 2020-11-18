@@ -37,15 +37,15 @@ bdg:C2CN11017 {
         :note               bdr:NTAA651C2EA0EFD0B8 , bdr:NTF8D5F3583BDA06AF .
     
     bdr:CM055E835411EE00A6
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1773 .
     
     bdr:CM83AFE0D2DDFD5B7D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P997 .
     
     bdr:CMDC1E4057D4E541B9
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1774 .
     
     bdr:NTAA651C2EA0EFD0B8

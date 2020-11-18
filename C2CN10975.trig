@@ -37,7 +37,7 @@ bdg:C2CN10975 {
         :note               bdr:NT4E605B626D719CF6 .
     
     bdr:CM22D5AAE683781B55
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3924 .
     
     bdr:NT4E605B626D719CF6

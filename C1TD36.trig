@@ -42,23 +42,23 @@ bdg:C1TD36 {
         :note               bdr:NT3B10B749A977E6D4 , bdr:NT6532C0610D32A3B6 .
     
     bdr:CM4450F7FB244FAEF1
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1224 .
     
     bdr:CM48EDCDD5B4545AE6
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3583 .
     
     bdr:CM6E6F260A852D41A2
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P8025 .
     
     bdr:CMCDE3C2524AC8006D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3580 .
     
     bdr:CMF570B8B5F5E8F8D8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1220 .
     
     bdr:NT3B10B749A977E6D4

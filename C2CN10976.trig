@@ -43,7 +43,7 @@ bdg:C2CN10976 {
         :note               bdr:NT4CD1131813CE705D .
     
     bdr:CMBA077008350C5B4F
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4067 .
     
     bdr:NT4CD1131813CE705D

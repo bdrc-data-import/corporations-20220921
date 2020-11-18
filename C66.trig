@@ -33,6 +33,6 @@ bdg:C66 {
         :isRoot             true .
     
     bdr:CMF13838709496A4C3
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6021 .
 }

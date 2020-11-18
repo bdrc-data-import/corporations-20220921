@@ -37,15 +37,15 @@ bdg:C2CN11023 {
         :note               bdr:NT84291BAC7BCA689A , bdr:NTC39FE94EED5BB1B9 .
     
     bdr:CM4EF0A2A25EEB60F6
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1298 .
     
     bdr:CM51E290549E19C193
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1300 .
     
     bdr:CMC7AD3FD2D39A9D83
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1060 .
     
     bdr:NT84291BAC7BCA689A

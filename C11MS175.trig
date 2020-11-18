@@ -36,11 +36,11 @@ bdg:C11MS175 {
         :note               bdr:NTD1B0263CDE69D822 .
     
     bdr:CM41D92567CB49C904
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P870 .
     
     bdr:CM5054C4A3F7DB1205
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3447 .
     
     bdr:NTD1B0263CDE69D822

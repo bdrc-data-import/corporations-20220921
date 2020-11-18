@@ -37,7 +37,7 @@ bdg:C2CN10965 {
         :note               bdr:NTB2A5CB10EB514C2A .
     
     bdr:CM35D761AF25F8B1B2
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2694 .
     
     bdr:NTB2A5CB10EB514C2A

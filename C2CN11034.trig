@@ -36,11 +36,11 @@ bdg:C2CN11034 {
         :note               bdr:NTC0277346B77A3583 .
     
     bdr:CM0E82922C12D416B9
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P10481 .
     
     bdr:CM7D1B3A407393AC61
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P7172 .
     
     bdr:NTC0277346B77A3583

@@ -36,7 +36,7 @@ bdg:C11MS206 {
         :note               bdr:NT519B08EF77BD68A7 .
     
     bdr:CMAD198E902E2EDF5D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2CZ7866 .
     
     bdr:NT519B08EF77BD68A7

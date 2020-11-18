@@ -37,7 +37,7 @@ bdg:C33 {
         :note               bdr:NT72C4B5D9BE2A5DF6 .
     
     bdr:CME7A8D6F1350781C9
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6923 .
     
     bdr:NT72C4B5D9BE2A5DF6

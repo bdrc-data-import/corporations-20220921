@@ -37,7 +37,7 @@ bdg:C2CN11031 {
         :note               bdr:NT0B369A2B70D946A3 , bdr:NT0F91D1933FA21F0B .
     
     bdr:CM21920AE3326F96D3
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2071 .
     
     bdr:NT0B369A2B70D946A3

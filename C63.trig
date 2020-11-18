@@ -41,7 +41,7 @@ bdg:C63 {
         :note               bdr:NT8AE94B0286F98EAD .
     
     bdr:CM594BEFE923553D72
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P277 .
     
     bdr:NT8AE94B0286F98EAD

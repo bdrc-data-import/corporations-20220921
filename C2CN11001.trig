@@ -42,15 +42,15 @@ bdg:C2CN11001 {
         :note               bdr:NTBDED66C38BE7DD86 .
     
     bdr:CM148C1E6496FA3466
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5088 .
     
     bdr:CM5C7F6E7E53C1A837
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P208 .
     
     bdr:CMCFA9B2604EA5D033
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5089 .
     
     bdr:NTBDED66C38BE7DD86

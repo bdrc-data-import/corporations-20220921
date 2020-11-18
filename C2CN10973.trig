@@ -42,11 +42,11 @@ bdg:C2CN10973 {
         :note               bdr:NT96FA047D2B70A674 .
     
     bdr:CM2B98A8390A4956D4
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P422 .
     
     bdr:CM5A68BC4CCBCBEC96
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3808 .
     
     bdr:NT96FA047D2B70A674

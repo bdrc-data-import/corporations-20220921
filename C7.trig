@@ -42,35 +42,35 @@ bdg:C7 {
         :note               bdr:NT800ED1A4E2621425 .
     
     bdr:CM00D5D7F76FC3E409
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6725 .
     
     bdr:CM030D5BA06AF4F890
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS182 .
     
     bdr:CM41ED3B48BE3BD616
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS181 .
     
     bdr:CM521BBBB4E5C03A4F
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS179 .
     
     bdr:CM63B18871C8FFDB3A
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6715 .
     
     bdr:CMB24CF208868C61F5
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS215 .
     
     bdr:CMC8A23D1E9DDF2302
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS184 .
     
     bdr:CMCB862050ABFC3FFC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS183 .
     
     bdr:CMCF4B233A3985B6F7
@@ -78,7 +78,7 @@ bdg:C7 {
         :corporationMember  bdr:P244 .
     
     bdr:CMEDAA98B772244DFC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS214 .
     
     bdr:NT800ED1A4E2621425

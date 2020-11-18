@@ -36,7 +36,7 @@ bdg:C23 {
         :note               bdr:NTF0CD6C60553C4C0C .
     
     bdr:CMB904C65678AE2F08
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6702 .
     
     bdr:NTF0CD6C60553C4C0C

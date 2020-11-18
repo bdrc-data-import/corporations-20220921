@@ -36,7 +36,7 @@ bdg:C11MS178 {
         :note               bdr:NT1CE588429B4694A7 .
     
     bdr:CME74F2359822EC485
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6167 .
     
     bdr:NT1CE588429B4694A7

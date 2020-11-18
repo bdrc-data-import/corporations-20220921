@@ -37,19 +37,19 @@ bdg:C2CN11002 {
         :note               bdr:NT4A90B4A1246544BF , bdr:NTD623A729C386CF68 .
     
     bdr:CM0963FE686197CB9A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5250 .
     
     bdr:CMCF8807967E2A0FD2
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5251 .
     
     bdr:CMDAAE87C03F3BE2DA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5252 .
     
     bdr:CMEE64C08BCA88B228
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P235 .
     
     bdr:NT4A90B4A1246544BF

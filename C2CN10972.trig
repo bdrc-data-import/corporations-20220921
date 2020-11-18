@@ -37,11 +37,11 @@ bdg:C2CN10972 {
         :note               bdr:NTE205F120A1B0DFA0 .
     
     bdr:CM2095542FFCBE7E2D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5191 .
     
     bdr:CM55D9982B1A831545
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3624 .
     
     bdr:NTE205F120A1B0DFA0

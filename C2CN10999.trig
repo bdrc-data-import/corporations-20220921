@@ -37,7 +37,7 @@ bdg:C2CN10999 {
         :note               bdr:NTADDEC61680FF8258 .
     
     bdr:CMBAB3991AA4E5BB16
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P60 .
     
     bdr:NTADDEC61680FF8258

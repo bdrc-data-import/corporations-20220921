@@ -36,7 +36,7 @@ bdg:C11MS195 {
         :note               bdr:NT0765290D0984DA68 .
     
     bdr:CM59ADE14028BA6C52
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4129 .
     
     bdr:NT0765290D0984DA68

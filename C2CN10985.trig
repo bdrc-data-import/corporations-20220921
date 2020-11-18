@@ -43,15 +43,15 @@ bdg:C2CN10985 {
         :note               bdr:NT65A20818FC7D5966 .
     
     bdr:CM1778C197BC2E7B00
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5078 .
     
     bdr:CM2140286EA662B2E2
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5079 .
     
     bdr:CM8C313CF096912B76
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1689 .
     
     bdr:NT65A20818FC7D5966

@@ -42,7 +42,7 @@ bdg:C2CN10997 {
         :note               bdr:NTCEB73D35048DBCDA , bdr:NTDE9098FED443B5CE .
     
     bdr:CMDB1806C0F6D14572
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6051 .
     
     bdr:NTCEB73D35048DBCDA

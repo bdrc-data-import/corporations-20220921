@@ -36,7 +36,7 @@ bdg:C2CN11020 {
         :note               bdr:NT6D067A150646D370 , bdr:NT8C036198A70B75FD .
     
     bdr:CM2F147A90702642EB
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1237 .
     
     bdr:NT6D067A150646D370

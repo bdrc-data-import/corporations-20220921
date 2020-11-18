@@ -37,15 +37,15 @@ bdg:C2CN11035 {
         :note               bdr:NT2FCC11B0943D63B2 .
     
     bdr:CM22266622D1FEBBD6
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4724 .
     
     bdr:CM80F31AA17BD46B0A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4723 .
     
     bdr:CM9015682D3E9A9237
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P273 .
     
     bdr:NT2FCC11B0943D63B2

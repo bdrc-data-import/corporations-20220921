@@ -42,51 +42,51 @@ bdg:C11 {
         :note               bdr:NT8ADBD791A7D80F4E .
     
     bdr:CM0B3D9A256EB766BA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS242 .
     
     bdr:CM12FC043F595BA302
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS238 .
     
     bdr:CM1366B17EA7315732
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS245 .
     
     bdr:CM42C98ABD6080F720
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS243 .
     
     bdr:CM4DBED1CABDCA40EF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS239 .
     
     bdr:CM55BBE9BA6E32F7E0
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS236 .
     
     bdr:CM88E28E881D100522
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6728 .
     
     bdr:CM903836145E541C4C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS235 .
     
     bdr:CM9791FE8CBB03BD83
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS241 .
     
     bdr:CMBE368278756B6E30
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS237 .
     
     bdr:CMD74E86C630A76187
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS240 .
     
     bdr:CMEF903BB8E530EBA0
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS244 .
     
     bdr:NT8ADBD791A7D80F4E

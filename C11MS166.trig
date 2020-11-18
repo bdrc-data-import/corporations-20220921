@@ -36,7 +36,7 @@ bdg:C11MS166 {
         :note               bdr:NT8A4C4B7E3D6CA35D .
     
     bdr:CM948F278C027D6E9C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3AG8 .
     
     bdr:NT8A4C4B7E3D6CA35D

@@ -37,11 +37,11 @@ bdg:C11MS212 {
         :note               bdr:NT8AB62FA4B8957F56 .
     
     bdr:CM030140C41FCD7E0A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2JM167 .
     
     bdr:CMCF560B4F03307229
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P10MS16952 .
     
     bdr:NT8AB62FA4B8957F56

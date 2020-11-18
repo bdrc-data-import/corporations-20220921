@@ -48,7 +48,7 @@ bdg:C68 {
         :note               bdr:NTDDBA211970DFD207 .
     
     bdr:CM1EC4B051A465B044
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6904 .
     
     bdr:CM7BA5032017ECD411

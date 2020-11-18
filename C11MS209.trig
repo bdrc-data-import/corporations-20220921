@@ -36,11 +36,11 @@ bdg:C11MS209 {
         :note               bdr:NT271A56FA93DC492A .
     
     bdr:CM6516E5CDFB97D33D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P9302 .
     
     bdr:CMBCE0B2621B6CF768
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3AG2 .
     
     bdr:NT271A56FA93DC492A

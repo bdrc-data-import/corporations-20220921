@@ -64,19 +64,19 @@ bdg:C17 {
         :note               bdr:NT741393FD8B383549 .
     
     bdr:CM377FC57B7783F984
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2332 .
     
     bdr:CMC7956ADF01FCE4AF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS259 .
     
     bdr:CMDC29D5DF5A840984
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS257 .
     
     bdr:CMFCFC385EDD6F8283
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS258 .
     
     bdr:NT741393FD8B383549

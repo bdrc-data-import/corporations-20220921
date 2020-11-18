@@ -48,7 +48,7 @@ bdg:C10MS14578 {
         :note               bdr:NT07437C7DA0CDB4F9 .
     
     bdr:CM2B3161D1F2AD7584
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1934 .
     
     bdr:NT07437C7DA0CDB4F9

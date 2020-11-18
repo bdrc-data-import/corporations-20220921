@@ -36,7 +36,7 @@ bdg:C11MS222 {
         :note               bdr:NT94127BB1F4307279 .
     
     bdr:CMA1A5DB24A5F8D153
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P258 .
     
     bdr:NT94127BB1F4307279

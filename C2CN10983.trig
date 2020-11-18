@@ -43,11 +43,11 @@ bdg:C2CN10983 {
         :note               bdr:NT0E0C29A1B7CFF7CB , bdr:NT804E894E5B913868 , bdr:NTFDBE35B19B7792F6 .
     
     bdr:CM280E61F8896A8B0D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4782 .
     
     bdr:CMF0EC8D91C2DAB9E7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6052 .
     
     bdr:NT0E0C29A1B7CFF7CB

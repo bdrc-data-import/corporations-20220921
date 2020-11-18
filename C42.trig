@@ -35,18 +35,18 @@ bdg:C42 {
         :isRoot             true .
     
     bdr:CM1670FECB59007342
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6694 .
     
     bdr:CM334574195847D5EC
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6721 .
     
     bdr:CMDC0335E1ABA89F7A
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6733 .
     
     bdr:CMF10C7F8DCE8F2193
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6081 .
 }

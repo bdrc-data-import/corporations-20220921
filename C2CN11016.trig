@@ -43,7 +43,7 @@ bdg:C2CN11016 {
         :note               bdr:NTB383ABCD60C9559E , bdr:NTF2037BB5C7E906F0 .
     
     bdr:CM1AA75003341DC77E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P953 .
     
     bdr:NTB383ABCD60C9559E

@@ -36,7 +36,7 @@ bdg:C11MS191 {
         :note               bdr:NT61D98B6E690DE94B .
     
     bdr:CM4B59A0B77B72D1FA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3446 .
     
     bdr:NT61D98B6E690DE94B

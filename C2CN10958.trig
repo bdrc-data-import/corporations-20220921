@@ -42,7 +42,7 @@ bdg:C2CN10958 {
         :note               bdr:NT851EC5C1586A296D .
     
     bdr:CM14A176E4197B40C5
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2257 .
     
     bdr:NT851EC5C1586A296D

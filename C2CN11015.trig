@@ -43,7 +43,7 @@ bdg:C2CN11015 {
         :note               bdr:NT3B027E5FE6DBFA25 , bdr:NT516AB10070C3BA5A .
     
     bdr:CM42E3A2415287F63A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P909 .
     
     bdr:NT3B027E5FE6DBFA25

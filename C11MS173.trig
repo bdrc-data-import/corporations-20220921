@@ -36,7 +36,7 @@ bdg:C11MS173 {
         :note               bdr:NT6575A8C3BA1E35EC .
     
     bdr:CMEF8C1443AB1764B4
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3285 .
     
     bdr:NT6575A8C3BA1E35EC

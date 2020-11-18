@@ -36,7 +36,7 @@ bdg:C11MS210 {
         :note               bdr:NT595456B2D0A460CB .
     
     bdr:CMAF6ACE540ADE69CA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P8LS12706 .
     
     bdr:NT595456B2D0A460CB

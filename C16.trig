@@ -52,11 +52,11 @@ bdg:C16 {
         :note               bdr:NT985D68109A7D32DA .
     
     bdr:CM29D425B4D2FC757E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS256 .
     
     bdr:CM858DA2849664F6CE
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS255 .
     
     bdr:NT985D68109A7D32DA

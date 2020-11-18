@@ -48,15 +48,15 @@ bdg:C11MS133 {
         :note               bdr:NTEA1A0DDDE407D285 .
     
     bdr:CM0EC6D607E091B278
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6958 .
     
     bdr:CM24727CF2AFB08CDD
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P293 .
     
     bdr:CM6692818E339F6D97
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6744 .
     
     bdr:CMA9DC6D2C7512C671

@@ -35,10 +35,10 @@ bdg:C38 {
         :isRoot             true .
     
     bdr:CMBC49D474A4A11B8C
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6723 .
     
     bdr:CMDE6827833D392165
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1165 .
 }

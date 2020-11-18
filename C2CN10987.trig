@@ -36,7 +36,7 @@ bdg:C2CN10987 {
         :note               bdr:NT6D2123B78BD1A012 .
     
     bdr:CM4AC5DB0A1D267D89
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5326 .
     
     bdr:NT6D2123B78BD1A012

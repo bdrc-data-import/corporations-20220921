@@ -37,7 +37,7 @@ bdg:C2CN11005 {
         :note               bdr:NT67DDF5CF8B7BEE22 , bdr:NTB59BE1FE661A26A8 .
     
     bdr:CMAB59B8AEE316BC40
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P292 .
     
     bdr:NT67DDF5CF8B7BEE22

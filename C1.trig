@@ -58,7 +58,7 @@ bdg:C1 {
         :corporationMember  bdr:P6680 .
     
     bdr:CMDCD0949DAFDA27BD
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P7067 .
     
     bdr:CME4512919AE9C9D8E
@@ -66,7 +66,7 @@ bdg:C1 {
         :corporationMember  bdr:P197 .
     
     bdr:CMEC1DABC290BE0775
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS149 .
     
     bdr:NT7DD9D48BDB5A3582

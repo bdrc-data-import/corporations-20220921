@@ -37,11 +37,11 @@ bdg:C2CN11000 {
         :note               bdr:NTC7CBC54DD58CD9D8 , bdr:NTD1EDC30AA30249D8 .
     
     bdr:CM4BE08B1E121B9DB3
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P190 .
     
     bdr:CM914E329FAA8313E7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P106 .
     
     bdr:NTC7CBC54DD58CD9D8

@@ -36,7 +36,7 @@ bdg:C11MS213 {
         :note               bdr:NT67F2630ABF2AE571 .
     
     bdr:CM847B2963DD722EB4
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1492 .
     
     bdr:NT67F2630ABF2AE571

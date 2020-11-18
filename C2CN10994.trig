@@ -43,11 +43,11 @@ bdg:C2CN10994 {
         :note               bdr:NT185C5D9EF12407E0 , bdr:NT2FDD45D369E27BA7 .
     
     bdr:CM6DD6D64BB95A9895
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6010 .
     
     bdr:CM8DA1953D1976743C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5994 .
     
     bdr:NT185C5D9EF12407E0

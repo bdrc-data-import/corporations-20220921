@@ -42,7 +42,7 @@ bdg:C11MS217 {
         :note               bdr:NT29E07AF85AEF0852 .
     
     bdr:CM9E861BE34CA827B4
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P782 .
     
     bdr:NT29E07AF85AEF0852

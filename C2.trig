@@ -46,23 +46,23 @@ bdg:C2 {
         :corporationMember  bdr:P255 .
     
     bdr:CM2B72342C0B5EB988
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS150 .
     
     bdr:CM63DA09382CC1D5D0
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS152 .
     
     bdr:CMB7CBC559EE7793E4
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6711 .
     
     bdr:CMC821C0C368123F9C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS151 .
     
     bdr:CMF9B05AD3E2CB2F54
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS203 .
     
     bdr:NTA8F89FE84CBE056C

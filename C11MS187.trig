@@ -36,7 +36,7 @@ bdg:C11MS187 {
         :note               bdr:NT4929D4E7A150977A .
     
     bdr:CM8687FE82CBE12722
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4332 .
     
     bdr:NT4929D4E7A150977A

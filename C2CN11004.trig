@@ -37,15 +37,15 @@ bdg:C2CN11004 {
         :note               bdr:NT43AF44FCAD686D94 .
     
     bdr:CM6C0843B3D7C08207
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P267 .
     
     bdr:CM99C4332BB52B2FF8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1232 .
     
     bdr:CME2A6A6E600CBB747
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1233 .
     
     bdr:NT43AF44FCAD686D94

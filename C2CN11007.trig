@@ -37,11 +37,11 @@ bdg:C2CN11007 {
         :note               bdr:NT3293368966658044 , bdr:NT47A8971960C7BAB5 .
     
     bdr:CMCEA0A168EB2088CC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1236 .
     
     bdr:CMEEBDC40467D1B567
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P310 .
     
     bdr:NT3293368966658044

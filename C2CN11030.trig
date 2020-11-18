@@ -37,7 +37,7 @@ bdg:C2CN11030 {
         :note               bdr:NTB917B44C9F25F6F4 , bdr:NTD0653DDB7456834E .
     
     bdr:CMAF4B11A4AF286FA8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1995 .
     
     bdr:NTB917B44C9F25F6F4

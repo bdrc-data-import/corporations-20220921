@@ -36,11 +36,11 @@ bdg:C11MS183 {
         :note               bdr:NTD98E70BB21A6C4B5 .
     
     bdr:CM3AEE6CF300FFD4AF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P268 .
     
     bdr:CMC6436277B341367C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P289 .
     
     bdr:NTD98E70BB21A6C4B5

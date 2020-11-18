@@ -47,15 +47,15 @@ bdg:C13 {
         :note               bdr:NT8B93D506400D5857 .
     
     bdr:CM0487930A7E00101A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS246 .
     
     bdr:CM232B627C74D10008
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS247 .
     
     bdr:CMB68BD611FBABE982
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6714 .
     
     bdr:NT8B93D506400D5857

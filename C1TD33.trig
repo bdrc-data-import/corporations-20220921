@@ -36,15 +36,15 @@ bdg:C1TD33 {
         :note               bdr:NTD1064CA09E49CCC5 .
     
     bdr:CM2B634D87AD9155B1
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P909 .
     
     bdr:CM5DAC7D1FB2F9B3AF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P512 .
     
     bdr:CM6313552523EC017C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2630 .
     
     bdr:NTD1064CA09E49CCC5

@@ -36,15 +36,15 @@ bdg:C2CN11024 {
         :note               bdr:NT395C0F0EF2AFCC03 .
     
     bdr:CM104326A4FD1EF5AE
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5228 .
     
     bdr:CM2319FC673447012B
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5227 .
     
     bdr:CM951AF951C9D455E3
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1317 .
     
     bdr:NT395C0F0EF2AFCC03

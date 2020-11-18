@@ -43,7 +43,7 @@ bdg:C11MS165 {
         :note               bdr:NT8D92ABFC326F4FA6 .
     
     bdr:CM58D18E957DD5BD64
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P698 .
     
     bdr:NT8D92ABFC326F4FA6

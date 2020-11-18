@@ -37,7 +37,7 @@ bdg:C11MS185 {
         :note               bdr:NT483889558FDA9B47 .
     
     bdr:CM17A9C3AA1D5CFABD
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1322 .
     
     bdr:NT483889558FDA9B47

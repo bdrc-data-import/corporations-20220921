@@ -36,7 +36,7 @@ bdg:C11MS189 {
         :note               bdr:NTC15757B066132887 .
     
     bdr:CMF5020525E8F1AB51
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1454 .
     
     bdr:NTC15757B066132887

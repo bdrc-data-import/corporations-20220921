@@ -37,15 +37,15 @@ bdg:C2CN11025 {
         :note               bdr:NT368B710F85F9F7D5 , bdr:NT724264B745369BE5 .
     
     bdr:CM129645C739E67777
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2489 .
     
     bdr:CM176D8BD373DE0CA7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2488 .
     
     bdr:CM922B1D581967CD86
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1426 .
     
     bdr:NT368B710F85F9F7D5

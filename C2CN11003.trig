@@ -37,15 +37,15 @@ bdg:C2CN11003 {
         :note               bdr:NT4B768461D825081A , bdr:NT4CFDD394136A4CF8 .
     
     bdr:CM0B45ECC92C3E591D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4448 .
     
     bdr:CM8212A17AAFF2B7B7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P257 .
     
     bdr:CMDAD7C43F59925D93
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4447 .
     
     bdr:NT4B768461D825081A

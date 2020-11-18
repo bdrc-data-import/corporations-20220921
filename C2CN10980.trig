@@ -43,15 +43,15 @@ bdg:C2CN10980 {
         :note               bdr:NT179D9CB45B3C8646 , bdr:NTB382894E2DD853C9 .
     
     bdr:CM2FE7085FCFFE13C4
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4512 .
     
     bdr:CM5E9874E8B6623A0E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4514 .
     
     bdr:CMD6D1135D973247BC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4513 .
     
     bdr:NT179D9CB45B3C8646

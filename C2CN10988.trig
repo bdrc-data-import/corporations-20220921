@@ -36,7 +36,7 @@ bdg:C2CN10988 {
         :note               bdr:NT098593C1290665A9 , bdr:NT14D9FD987BB58EE7 .
     
     bdr:CM69175ED74C74041D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5387 .
     
     bdr:NT098593C1290665A9

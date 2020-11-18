@@ -36,15 +36,15 @@ bdg:C11MS190 {
         :note               bdr:NTCAFB496AFD110420 .
     
     bdr:CM3C3D2C21F2F42586
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P15 .
     
     bdr:CMA7326F5E7BC7063E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1693 .
     
     bdr:CMC51F40965BBFCCB7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3AG26 .
     
     bdr:NTCAFB496AFD110420

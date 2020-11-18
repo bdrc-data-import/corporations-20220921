@@ -40,7 +40,7 @@ bdg:C80 {
         :note               bdr:NTDFCD6FF44E49CEB6 .
     
     bdr:CM7E40668818D64F8D
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1060 .
     
     bdr:NTDFCD6FF44E49CEB6

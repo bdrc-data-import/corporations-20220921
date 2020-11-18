@@ -37,7 +37,7 @@ bdg:C2CN10974 {
         :note               bdr:NT06B798BE81660218 , bdr:NT8F73F081AE07940D .
     
     bdr:CM74E82E01EB18F08D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3825 .
     
     bdr:NT06B798BE81660218

@@ -37,7 +37,7 @@ bdg:C11MS184 {
         :note               bdr:NTFDEBA3120A0C5434 .
     
     bdr:CM1C2387C895FF4F71
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P629 .
     
     bdr:NTFDEBA3120A0C5434

@@ -43,7 +43,7 @@ bdg:C2CN10981 {
         :note               bdr:NT730127B5EEFC5E7F , bdr:NTB5DFBBF618FA6976 .
     
     bdr:CM1AE5AA2E0A8A5C11
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4690 .
     
     bdr:NT730127B5EEFC5E7F

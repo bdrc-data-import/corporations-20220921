@@ -37,23 +37,23 @@ bdg:C2CN11011 {
         :note               bdr:NTC116C86D8BFCAE4D , bdr:NTD4E5EF33CDF6B958 .
     
     bdr:CM06080EC94A979BF6
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P709 .
     
     bdr:CM07408BE1CB2EADE4
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4444 .
     
     bdr:CM446A4825E0DE884E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4443 .
     
     bdr:CM6EE56192365F3C14
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P710 .
     
     bdr:CMEC1828C8499C78EF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P442 .
     
     bdr:NTC116C86D8BFCAE4D

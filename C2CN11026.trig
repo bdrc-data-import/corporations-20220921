@@ -43,11 +43,11 @@ bdg:C2CN11026 {
         :note               bdr:NT803C7F0B89DBB34E , bdr:NTEF19617F7BF16302 .
     
     bdr:CM15A87F0C0F533BCF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1507 .
     
     bdr:CMF40B6668986745FC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1508 .
     
     bdr:NT803C7F0B89DBB34E

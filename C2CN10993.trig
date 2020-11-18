@@ -42,15 +42,15 @@ bdg:C2CN10993 {
         :note               bdr:NT43BA1F65AB85B15D .
     
     bdr:CM6FD958F7F8A98A19
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1690 .
     
     bdr:CMB3FDE2081E15A4D9
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5601 .
     
     bdr:CMCA88518DAE3484AB
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5602 .
     
     bdr:NT43BA1F65AB85B15D

@@ -49,7 +49,7 @@ bdg:C11MS186 {
         :note               bdr:NTF8E10AA91500B5B0 .
     
     bdr:CMA2A42918AA5035CD
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2271 .
     
     bdr:NTF8E10AA91500B5B0

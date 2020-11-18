@@ -37,7 +37,7 @@ bdg:C2CN11028 {
         :note               bdr:NT17D8C8A73AFD6BDA , bdr:NT2F0EA4C9F23792AA .
     
     bdr:CM108C0847C8B8AECF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1740 .
     
     bdr:NT17D8C8A73AFD6BDA

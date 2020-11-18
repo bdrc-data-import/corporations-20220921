@@ -49,7 +49,7 @@ bdg:C2CN10961 {
         :note               bdr:NT3632B2A7D2EC7AF0 , bdr:NT3C90CB8CE71AFDB0 , bdr:NT6D416FD5741E0B56 .
     
     bdr:CM781A76CDD6CB72BD
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2390 .
     
     bdr:NT3632B2A7D2EC7AF0

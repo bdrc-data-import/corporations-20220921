@@ -36,7 +36,7 @@ bdg:C11MS196 {
         :note               bdr:NTE8C7997242EFA41E .
     
     bdr:CMA0AD63C1E20E5769
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P00EGS1017608 .
     
     bdr:NTE8C7997242EFA41E

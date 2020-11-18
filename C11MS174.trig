@@ -36,7 +36,7 @@ bdg:C11MS174 {
         :note               bdr:NT44BA2C2B76DC5DEE .
     
     bdr:CM9783DD744A5E12D8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P55 .
     
     bdr:NT44BA2C2B76DC5DEE

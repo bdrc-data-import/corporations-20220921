@@ -41,7 +41,7 @@ bdg:C11MS119 {
         :note               bdr:NTE617AECCBBF9FE97 .
     
     bdr:CM75B6655B6049267A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2551 .
     
     bdr:NTE617AECCBBF9FE97

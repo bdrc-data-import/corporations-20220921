@@ -49,7 +49,7 @@ bdg:C2CN10968 {
         :note               bdr:NT3AB50F59D23154AE , bdr:NT620BF4DEEF9A2610 , bdr:NTA6741301935F42FE .
     
     bdr:CMBC3F96096C074796
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3548 .
     
     bdr:NT3AB50F59D23154AE

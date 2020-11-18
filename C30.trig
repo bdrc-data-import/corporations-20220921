@@ -35,6 +35,6 @@ bdg:C30 {
         :isRoot             true .
     
     bdr:CM939FA04A52416D90
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6710 .
 }

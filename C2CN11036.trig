@@ -37,23 +37,23 @@ bdg:C2CN11036 {
         :note               bdr:NTBA8195FCF765E1CB , bdr:NTFC9CBF48B4B94530 .
     
     bdr:CM238CC4C432EAAEEC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2342 .
     
     bdr:CM73DA8B53329D3D86
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2341 .
     
     bdr:CM8AC214CFA93E7210
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2344 .
     
     bdr:CMCEFC9B6E821F0ECB
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2345 .
     
     bdr:CMD3A452D15E2166F0
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P108 .
     
     bdr:NTBA8195FCF765E1CB

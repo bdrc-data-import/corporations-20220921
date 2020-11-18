@@ -51,7 +51,7 @@ bdg:C75 {
         :corporationMember  bdr:P2064 .
     
     bdr:CMB847FD7D59E2D553
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4122 .
     
     bdr:NT3A94DEDAEE418978

@@ -49,19 +49,19 @@ bdg:C2CN10955 {
         :note               bdr:NT5C29C182B4946E01 .
     
     bdr:CM3306DF0D37D3E03E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1110 .
     
     bdr:CM92ED08839B91AAC9
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P280 .
     
     bdr:CMD5540C0C378561C1
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P286 .
     
     bdr:CME02B55803FABAFEF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1111 .
     
     bdr:NT5C29C182B4946E01

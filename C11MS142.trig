@@ -43,7 +43,7 @@ bdg:C11MS142 {
         :note               bdr:NT162EFECBB4196A50 , bdr:NT44A532AD945B1E66 , bdr:NT6F148129642653F6 , bdr:NT92EFBCC1B7DA7F08 , bdr:NTAE32FD48843848EB .
     
     bdr:CMF012D4F21D0F27AA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1224 .
     
     bdr:NT162EFECBB4196A50

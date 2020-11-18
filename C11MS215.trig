@@ -36,7 +36,7 @@ bdg:C11MS215 {
         :note               bdr:NT68143982268B632F .
     
     bdr:CM96373EB390CCF69D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1849 .
     
     bdr:NT68143982268B632F

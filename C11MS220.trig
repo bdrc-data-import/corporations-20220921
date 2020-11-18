@@ -36,11 +36,11 @@ bdg:C11MS220 {
         :note               bdr:NT0872D16208D92566 .
     
     bdr:CM23A1AA5A3F525A61
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P676 .
     
     bdr:CM93916E7D6EF7554E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3AG25 .
     
     bdr:NT0872D16208D92566

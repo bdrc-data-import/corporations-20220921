@@ -37,7 +37,7 @@ bdg:C2CN11013 {
         :note               bdr:NTA78E9B2EC01E978E , bdr:NTEBB7118AE82929DF .
     
     bdr:CM6D9594A6A1D610D3
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P507 .
     
     bdr:NTA78E9B2EC01E978E

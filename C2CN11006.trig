@@ -43,11 +43,11 @@ bdg:C2CN11006 {
         :note               bdr:NT216ED1BCD5042F01 , bdr:NT3ED946CCA41E6752 .
     
     bdr:CM07D84A74DE79BC42
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P305 .
     
     bdr:CMFBA769A4133368F3
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1719 .
     
     bdr:NT216ED1BCD5042F01

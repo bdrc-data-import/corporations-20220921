@@ -37,15 +37,15 @@ bdg:C2CN10989 {
         :note               bdr:NTA6F74D41C764A1D3 , bdr:NTA8C1C5FCBBDEB8A4 .
     
     bdr:CM300134B1D651C8FD
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5408 .
     
     bdr:CM37FA76F81A9D2D1C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P170 .
     
     bdr:CM8D93ACCE463CCB9F
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5409 .
     
     bdr:NTA6F74D41C764A1D3

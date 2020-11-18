@@ -36,7 +36,7 @@ bdg:C2CN11019 {
         :note               bdr:NT2D7DBE1AC813A228 .
     
     bdr:CM227833062A3F9BE5
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1160 .
     
     bdr:NT2D7DBE1AC813A228

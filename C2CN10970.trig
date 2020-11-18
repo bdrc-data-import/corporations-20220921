@@ -37,7 +37,7 @@ bdg:C2CN10970 {
         :note               bdr:NT1DED2872F5F941CB .
     
     bdr:CM4F3945B6A74CA9DC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3551 .
     
     bdr:NT1DED2872F5F941CB

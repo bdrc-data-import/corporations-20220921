@@ -36,11 +36,11 @@ bdg:C46 {
         :note               bdr:NT71DF87A4D4BB4C02 .
     
     bdr:CMA1821358F3959300
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6692 .
     
     bdr:CMEA67E59ED14C8103
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6693 .
     
     bdr:NT71DF87A4D4BB4C02

@@ -36,15 +36,15 @@ bdg:C2CN11022 {
         :note               bdr:NT85887623533C4FBD , bdr:NTC3A9F2F3B4B5BE74 .
     
     bdr:CM3D8A51D03630E7F9
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1291 .
     
     bdr:CM78F858E732E6711B
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1290 .
     
     bdr:CMC06FD0971F6168CE
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1289 .
     
     bdr:NT85887623533C4FBD

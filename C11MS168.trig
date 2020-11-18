@@ -36,7 +36,7 @@ bdg:C11MS168 {
         :note               bdr:NT900BBC0CE1589A50 , bdr:NTADA32884D613A98E .
     
     bdr:CMA5EA8FC8AE1A69E8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3285 .
     
     bdr:NT900BBC0CE1589A50

@@ -38,6 +38,6 @@ bdg:C20 {
         :corporationMember  bdr:P6717 .
     
     bdr:CMDCF3FFCEB72FFF86
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6704 .
 }

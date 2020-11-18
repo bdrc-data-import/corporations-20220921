@@ -37,7 +37,7 @@ bdg:C2CN11012 {
         :note               bdr:NT8C5C687D7509D374 .
     
     bdr:CM72DE61511FD6772D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P477 .
     
     bdr:NT8C5C687D7509D374

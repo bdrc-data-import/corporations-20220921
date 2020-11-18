@@ -41,11 +41,11 @@ bdg:C34 {
         :corporationMember  bdr:P6924 .
     
     bdr:CM389E19E44B74A6DC
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6925 .
     
     bdr:CMC9BC3F992FF27938
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6706 .
     
     bdr:NTA7535B8870BC8088

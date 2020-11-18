@@ -35,6 +35,6 @@ bdg:C11MS205 {
         :isRoot             true .
     
     bdr:CMEDBD8D9937C29559
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3550 .
 }

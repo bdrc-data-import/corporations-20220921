@@ -42,7 +42,7 @@ bdg:C2CN10954 {
         :note               bdr:NT687C5F4159996093 .
     
     bdr:CM68267C0F13966DF1
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2157 .
     
     bdr:NT687C5F4159996093

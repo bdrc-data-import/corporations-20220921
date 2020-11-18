@@ -43,11 +43,11 @@ bdg:C2CN10956 {
         :note               bdr:NT1D52F30926665825 .
     
     bdr:CM05B854392234FE56
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P8LS12096 .
     
     bdr:CMFDA0566CDE7D145D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1988 .
     
     bdr:NT1D52F30926665825

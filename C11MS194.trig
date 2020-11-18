@@ -36,7 +36,7 @@ bdg:C11MS194 {
         :note               bdr:NT4524A2FF37265863 .
     
     bdr:CM553683DC337402DA
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5418 .
     
     bdr:NT4524A2FF37265863

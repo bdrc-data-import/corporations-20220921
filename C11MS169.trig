@@ -36,6 +36,6 @@ bdg:C11MS169 {
         :isRoot             true .
     
     bdr:CMA9FCCED34F709F5A
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1675 .
 }

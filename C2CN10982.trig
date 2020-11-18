@@ -43,15 +43,15 @@ bdg:C2CN10982 {
         :note               bdr:NT86D779042A2BF756 , bdr:NTA1A2DBE67DC822A4 .
     
     bdr:CM2FF25128B45FD26E
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4739 .
     
     bdr:CM5AA34889B2DEBFAF
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P719 .
     
     bdr:CME9E78BDA5246BEA8
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P97 .
     
     bdr:NT86D779042A2BF756

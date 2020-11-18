@@ -36,7 +36,7 @@ bdg:C11MS170 {
         :note               bdr:NTAA3AC231C7216B0B , bdr:NTF247E9C5ACE9527A .
     
     bdr:CM7872F5FD75068B81
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1856 .
     
     bdr:NTAA3AC231C7216B0B

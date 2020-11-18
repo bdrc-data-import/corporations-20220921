@@ -36,7 +36,7 @@ bdg:C11MS177 {
         :note               bdr:NTD8F803B0FFFF193D .
     
     bdr:CME3AAAD85F286CBCC
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P3AG3 .
     
     bdr:NTD8F803B0FFFF193D

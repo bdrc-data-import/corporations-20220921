@@ -36,11 +36,11 @@ bdg:C1TD19 {
         :note               bdr:NT078B68634094C83D .
     
     bdr:CM83EFBC5FC1EBA46C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1TD17 .
     
     bdr:CMAEA74D26419D712B
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P1TD18 .
     
     bdr:NT078B68634094C83D

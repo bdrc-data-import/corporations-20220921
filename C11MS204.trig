@@ -37,7 +37,7 @@ bdg:C11MS204 {
         :note               bdr:NT86CA1ECCD8DBDF16 .
     
     bdr:CMD70B54D5B5E59755
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2761 .
     
     bdr:NT86CA1ECCD8DBDF16

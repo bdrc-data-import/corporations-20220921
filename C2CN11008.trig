@@ -43,15 +43,15 @@ bdg:C2CN11008 {
         :note               bdr:NT3807749DEDE4BC52 , bdr:NT8216D40012AD05CA .
     
     bdr:CM4188420CC126F134
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4631 .
     
     bdr:CM5265FF9F363E0640
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P335 .
     
     bdr:CMBF3BB9010DF980F7
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P4632 .
     
     bdr:NT3807749DEDE4BC52

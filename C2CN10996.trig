@@ -43,11 +43,11 @@ bdg:C2CN10996 {
         :note               bdr:NTA09AC97F9C0F797D , bdr:NTDB7634BA8402C58E .
     
     bdr:CM6B0F007CF2350778
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6034 .
     
     bdr:CM80F9C32B11316D24
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P6007 .
     
     bdr:NTA09AC97F9C0F797D

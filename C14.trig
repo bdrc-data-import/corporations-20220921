@@ -61,31 +61,31 @@ bdg:C14 {
         :corporationMember  bdr:P6079 .
     
     bdr:CM56953B0F7A9DB785
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS253 .
     
     bdr:CM7654E1949D12D6A9
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS252 .
     
     bdr:CM8692C3BDF6045B4C
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS249 .
     
     bdr:CM8E738E062215D06D
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS250 .
     
     bdr:CMB1086BCF46AA1F92
-        a                   :CorporationMemberUnknown ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P5116 .
     
     bdr:CMCF7517F7DB95A599
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS248 .
     
     bdr:CMD6D2ACEA5D1CF983
-        a                   :CorporationMemberNotSpecified ;
+        a                   :CorporationMember ;
         :corporationMember  bdr:P2LS254 .
     
     bdr:NTE24771116D5BEFDB
