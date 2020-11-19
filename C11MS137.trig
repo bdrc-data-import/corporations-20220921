@@ -43,7 +43,7 @@ bdg:C11MS137 {
         :note               bdr:NT3776415CAFC402C9 , bdr:NT4708271E3595BF2A , bdr:NTD41751404A134B2F .
     
     bdr:CM8E06B30991C94780
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P00AG02484 .
     
     bdr:NT3776415CAFC402C9

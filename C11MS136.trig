@@ -42,7 +42,7 @@ bdg:C11MS136 {
         :note               bdr:NT3A757D8C03DFAB03 .
     
     bdr:CMEFAE5414645CF8F6
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P2557 .
     
     bdr:NT3A757D8C03DFAB03

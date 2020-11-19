@@ -37,7 +37,7 @@ bdg:C34 {
         :note               bdr:NTA7535B8870BC8088 .
     
     bdr:CM31D9CA8E0FFE43F7
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6924 .
     
     bdr:CM389E19E44B74A6DC

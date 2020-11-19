@@ -52,7 +52,7 @@ bdg:C68 {
         :corporationMember  bdr:P6904 .
     
     bdr:CM7BA5032017ECD411
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6905 .
     
     bdr:NTDDBA211970DFD207

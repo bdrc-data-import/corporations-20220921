@@ -42,7 +42,7 @@ bdg:C2 {
         :note               bdr:NTA8F89FE84CBE056C .
     
     bdr:CM06C29895FD2626A7
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P255 .
     
     bdr:CM2B72342C0B5EB988

@@ -42,7 +42,7 @@ bdg:C11MS131 {
         :note               bdr:NT50A928EC2142D9E6 , bdr:NTFC9389533CBD91C3 .
     
     bdr:CMB83E6AFD13699FA0
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P293 .
     
     bdr:NT50A928EC2142D9E6

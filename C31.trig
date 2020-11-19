@@ -38,6 +38,6 @@ bdg:C31 {
         :corporationMember  bdr:P6732 .
     
     bdr:CMEB0A52632F07A8F1
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P7007 .
 }

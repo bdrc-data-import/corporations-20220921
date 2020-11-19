@@ -185,7 +185,7 @@ bdg:C35 {
         :corporationMember  bdr:P2LS313 .
     
     bdr:CMF4783B377839EEF6
-        a                   :CorporationMemberMarriage ;
+        a                   :CorporationMemberByMarriage ;
         :corporationMember  bdr:P5410 .
     
     bdr:CMF7B11000A0E5BA16

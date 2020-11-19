@@ -60,11 +60,11 @@ bdg:C11MS133 {
         :corporationMember  bdr:P6744 .
     
     bdr:CMA9DC6D2C7512C671
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P9530 .
     
     bdr:CMB659775C07F8AC21
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P724 .
     
     bdr:NTEA1A0DDDE407D285

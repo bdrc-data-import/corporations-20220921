@@ -33,6 +33,6 @@ bdg:C64 {
         :isRoot             true .
     
     bdr:CMDF8E5B640504EAAE
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P656 .
 }

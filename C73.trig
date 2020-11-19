@@ -34,14 +34,14 @@ bdg:C73 {
         :isRoot             true .
     
     bdr:CM2F9D154968233C4A
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P4680 .
     
     bdr:CM7DBC7664139B1CD5
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P7020 .
     
     bdr:CMAF9FC2916A1CFC2E
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P7019 .
 }

@@ -47,7 +47,7 @@ bdg:C75 {
         :note               bdr:NT3A94DEDAEE418978 , bdr:NT60E3E573C3B048E2 , bdr:NTF1B20F16608710D1 .
     
     bdr:CM2E5A3AEC5BAF9DB7
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P2064 .
     
     bdr:CMB847FD7D59E2D553

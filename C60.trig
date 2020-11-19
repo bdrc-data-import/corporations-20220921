@@ -34,6 +34,6 @@ bdg:C60 {
         :isRoot             true .
     
     bdr:CM0D8FD11BC6771614
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P3476 .
 }

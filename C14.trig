@@ -57,7 +57,7 @@ bdg:C14 {
         :note               bdr:NTE24771116D5BEFDB .
     
     bdr:CM2D881A1DB2090551
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6079 .
     
     bdr:CM56953B0F7A9DB785

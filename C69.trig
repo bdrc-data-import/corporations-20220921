@@ -42,7 +42,7 @@ bdg:C69 {
         :note               bdr:NTB62A39A74B8CE966 .
     
     bdr:CM3B3EB1D6F618BF34
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P1615 .
     
     bdr:NTB62A39A74B8CE966

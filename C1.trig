@@ -46,15 +46,15 @@ bdg:C1 {
         :note               bdr:NT7DD9D48BDB5A3582 .
     
     bdr:CM2B0540E276FB5DC4
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6682 .
     
     bdr:CM8166D8F547C8220F
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6681 .
     
     bdr:CMB71EF278AA02337E
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6680 .
     
     bdr:CMDCD0949DAFDA27BD
@@ -62,7 +62,7 @@ bdg:C1 {
         :corporationMember  bdr:P7067 .
     
     bdr:CME4512919AE9C9D8E
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P197 .
     
     bdr:CMEC1DABC290BE0775

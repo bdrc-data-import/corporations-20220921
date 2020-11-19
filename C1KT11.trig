@@ -54,7 +54,7 @@ bdg:C1KT11 {
         :note               bdr:NT7705CFD43603017A , bdr:NTEEC817C37305E16D .
     
     bdr:CM322DCC0ED907BA77
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P4997 .
     
     bdr:NT7705CFD43603017A

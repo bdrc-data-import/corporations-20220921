@@ -74,7 +74,7 @@ bdg:C7 {
         :corporationMember  bdr:P2LS183 .
     
     bdr:CMCF4B233A3985B6F7
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P244 .
     
     bdr:CMEDAA98B772244DFC

@@ -34,7 +34,7 @@ bdg:C20 {
         :isRoot             true .
     
     bdr:CMB0294F592F357088
-        a                   :CorporationMemberMarriage ;
+        a                   :CorporationMemberByMarriage ;
         :corporationMember  bdr:P6717 .
     
     bdr:CMDCF3FFCEB72FFF86

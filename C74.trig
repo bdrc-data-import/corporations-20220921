@@ -35,7 +35,7 @@ bdg:C74 {
         :note               bdr:NT70512028FE26C745 .
     
     bdr:CMFF67B6A7B165B900
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P106 .
     
     bdr:NT70512028FE26C745

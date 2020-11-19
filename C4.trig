@@ -69,7 +69,7 @@ bdg:C4 {
         :corporationMember  bdr:P6722 .
     
     bdr:CM2937E6DB3FDE6EF2
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P260 .
     
     bdr:CM365CAA10AE499F59
@@ -97,7 +97,7 @@ bdg:C4 {
         :corporationMember  bdr:P2LS159 .
     
     bdr:CMABEFEDE682BE7713
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P6754 .
     
     bdr:CMC1A234A534DCBC10

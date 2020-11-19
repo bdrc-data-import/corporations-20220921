@@ -79,7 +79,7 @@ bdg:C5 {
         :corporationMember  bdr:P2LS166 .
     
     bdr:CM708BCD9790CE0897
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P179 .
     
     bdr:CM73F5264A880A39FA

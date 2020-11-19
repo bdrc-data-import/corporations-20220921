@@ -54,7 +54,7 @@ bdg:C71 {
         :note               bdr:NT1608209F6A5DBAE1 , bdr:NT75F745B61DD0C7FD .
     
     bdr:CM74F92A3926C110F8
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P645 .
     
     bdr:NT1608209F6A5DBAE1

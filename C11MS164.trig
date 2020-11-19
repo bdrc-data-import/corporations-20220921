@@ -36,7 +36,7 @@ bdg:C11MS164 {
         :note               bdr:NTD127FD3C93BFE8DA .
     
     bdr:CM5E38E60B7A4B945C
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P8688 .
     
     bdr:NTD127FD3C93BFE8DA

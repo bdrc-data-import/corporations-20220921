@@ -50,7 +50,7 @@ bdg:C6 {
         :corporationMember  bdr:P2LS173 .
     
     bdr:CM55F3E7DFE915DA81
-        a                   :CorporationMemberBlood ;
+        a                   :CorporationMemberByBlood ;
         :corporationMember  bdr:P109 .
     
     bdr:CM57C21E138064654B
