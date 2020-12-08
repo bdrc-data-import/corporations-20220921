@@ -37,7 +37,6 @@ bdg:C1KG6016 {
     
     bdr:C1KG6016  a         :Corporation ;
         skos:prefLabel      "nywa nag"@bo-x-ewts ;
-        :catalogInfo        "nywa nag family"@en ;
         :isRoot             true ;
         :note               bdr:NT1A6BCF8959A37055 .
     

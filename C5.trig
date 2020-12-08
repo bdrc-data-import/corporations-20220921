@@ -40,7 +40,6 @@ bdg:C5 {
     bdr:C5  a               :Corporation ;
         skos:altLabel       "bsam pho (yab gzhis)"@bo-x-ewts ;
         skos:prefLabel      "bsam grub pho brang (yab gzhis)"@bo-x-ewts ;
-        :catalogInfo        "yab gzhis family"@en ;
         :corporationHasMember  bdr:CM099AF8509B30F484 , bdr:CM0E84CCE25269F195 , bdr:CM1D4C4D01259E36D0 , bdr:CM38498D033D0621EB , bdr:CM50752EDF2568B55F , bdr:CM6989D24B59A7C2F4 , bdr:CM6C411BB07142744F , bdr:CM6D49EED9F9617131 , bdr:CM708BCD9790CE0897 , bdr:CM73F5264A880A39FA , bdr:CM8D8F98A3288F542B , bdr:CMA74E2CAA32DAC475 , bdr:CMD5439502F4AF7079 , bdr:CMD7B1E00DE810627A , bdr:CMDA2F7686D48ED36E , bdr:CMDA4C5A7130F3F7E6 , bdr:CME1097F6180EEA0AB , bdr:CME9D50B92FF65FA5C , bdr:CMEA3034BAD0D3956B , bdr:CMF9288576F5548EE8 ;
         :corporationRegion  bdr:G2133 ;
         :isRoot             true ;

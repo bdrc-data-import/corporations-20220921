@@ -50,7 +50,6 @@ bdg:C14 {
     bdr:C14  a              :Corporation ;
         skos:altLabel       "bkra shis mthong smon (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "bkras mthong (sku drag)"@bo-x-ewts ;
-        :catalogInfo        "sku drag family"@en ;
         :corporationHasMember  bdr:CM2D881A1DB2090551 , bdr:CM56953B0F7A9DB785 , bdr:CM7654E1949D12D6A9 , bdr:CM8692C3BDF6045B4C , bdr:CM8E738E062215D06D , bdr:CMB1086BCF46AA1F92 , bdr:CMCF7517F7DB95A599 , bdr:CMD6D2ACEA5D1CF983 ;
         :corporationRegion  bdr:G2170 ;
         :isRoot             true ;
