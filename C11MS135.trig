@@ -21,6 +21,7 @@ bdg:C11MS135 {
         adm:graphId         bdg:C11MS135 ;
         adm:logEntry        bda:LG07D2844A68C519F0 , bda:LG8B844F32FE6FA9EC , bda:LGF760278AF62A905E ;
         adm:metadataLegal   bda:LD_BDRC_CC0 ;
+        adm:replaceWith     bdr:C68 ;
         adm:status          bda:StatusWithdrawn .
     
     bda:LG07D2844A68C519F0
