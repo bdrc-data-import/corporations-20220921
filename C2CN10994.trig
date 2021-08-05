@@ -56,5 +56,5 @@ bdg:C2CN10994 {
     
     bdr:NT2FDD45D369E27BA7
         a                   :Note ;
-        :noteText           "'di sbra rgan tshang dang sbra gsar tshang khag gnyis su gyes yod par snyam pa mu mthud dpyad rgyu/"@bo-x-ewts .
+        :noteText           "'di sbra rgan tshang dang sbra gsar tshang khag gnyis su gyes yod par snyam pa mu mthud dpyad rgyu/"@en .
 }

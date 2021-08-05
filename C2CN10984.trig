@@ -46,5 +46,5 @@ bdg:C2CN10984 {
     
     bdr:NTA4DC14B7FB6ED05D
         a                   :Note ;
-        :noteText           "'di'i sa ming dang rus ming gnyis ka'i skor la zhib rtsad dgos rgyu'i brjed thor/"@bo-x-ewts .
+        :noteText           "'di'i sa ming dang rus ming gnyis ka'i skor la zhib rtsad dgos rgyu'i brjed thor/"@en .
 }

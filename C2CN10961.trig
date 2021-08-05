@@ -62,5 +62,5 @@ bdg:C2CN10961 {
     
     bdr:NT6D416FD5741E0B56
         a                   :Note ;
-        :noteText           "'di'i dag cha ju nang dza sag min nam snyam pas dpyad rgyu/"@bo-x-ewts .
+        :noteText           "'di'i dag cha ju nang dza sag min nam snyam pas dpyad rgyu/"@en .
 }
