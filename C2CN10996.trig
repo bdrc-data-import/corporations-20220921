@@ -54,7 +54,7 @@ bdg:C2CN10996 {
         a                   :Note ;
         :contentLocationStatement  "p. 6" ;
         :noteSource         bdr:MW22359 ;
-        :noteText           "'di yang mgo log dbang mda'm gyi ling sang du 'khrungs pa'i ka thog mkhan po gyi ling thugs mchog rdo rje'i dbon brgyud la go/"@en .
+        :noteText           "'di yang mgo log dbang mda'm gyi ling sang du 'khrungs pa'i ka thog mkhan po gyi ling thugs mchog rdo rje'i dbon brgyud la go"@bo-x-ewts .
     
     bdr:NTDB7634BA8402C58E
         a                   :Note ;

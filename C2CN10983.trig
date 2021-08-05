@@ -60,5 +60,5 @@ bdg:C2CN10983 {
     
     bdr:NTFDBE35B19B7792F6
         a                   :Note ;
-        :noteText           "'di mgo log khul la yin dang dkar mdzes khul du yin da dung mu mthud rtsad rgyu/"@en .
+        :noteText           "'di mgo log khul la yin dang dkar mdzes khul du yin da dung mu mthud rtsad rgyu/"@bo-x-ewts .
 }
