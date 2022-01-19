@@ -28,7 +28,7 @@ bdg:C51 {
         adm:logWho          bdu:U00001 .
     
     bdr:C51  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:altLabel       "lcang lo can 2 (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "pho lha/"@bo-x-ewts ;
         :isRoot             true .

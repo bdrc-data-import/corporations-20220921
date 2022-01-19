@@ -34,7 +34,7 @@ bdg:C69 {
         adm:logWho          bdu:U00001 .
     
     bdr:C69  a              :Corporation ;
-        rdfs:comment        "lineage" ;
+        rdfs:comment        "lineage"@en ;
         skos:prefLabel      "'khon gdung (sa skya)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM3B3EB1D6F618BF34 ;
         :corporationRegion  bdr:G1645 ;

@@ -30,7 +30,8 @@ bdg:C11MS191 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS191  a         :Corporation ;
-        skos:prefLabel      "gtum/"@bo-x-ewts , "Tum"@en-x-mixed ;
+        skos:altLabel       "Tum"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "gtum/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM4B59A0B77B72D1FA ;
         :isRoot             true ;
         :note               bdr:NT61D98B6E690DE94B .

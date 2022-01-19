@@ -33,7 +33,7 @@ bdg:C9 {
         adm:logWho          bdu:U00019 .
     
     bdr:C9  a               :Corporation ;
-        rdfs:comment        "sde dpon family" ;
+        rdfs:comment        "sde dpon family"@en ;
         skos:altLabel       "bla brang rnying pa (sde dpon)"@bo-x-ewts ;
         skos:prefLabel      "thon pa (sde dpon)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM2F5AFEBD255CE299 , bdr:CM706EADB9C0474773 , bdr:CM7346D0ACBFB18C3F , bdr:CM765E38C5A6902D4E , bdr:CM9F8A4C09EA8454B7 , bdr:CMB772F1D183F60E39 , bdr:CMC8549435B30027E8 , bdr:CMCFA24511660ABACE ;

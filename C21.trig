@@ -28,7 +28,7 @@ bdg:C21 {
         adm:logWho          bdu:U00001 .
     
     bdr:C21  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:prefLabel      "lcang rgyab (sku drag)"@bo-x-ewts ;
         :isRoot             true .
 }

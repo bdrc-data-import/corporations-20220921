@@ -28,7 +28,7 @@ bdg:C46 {
         adm:logWho          bdu:U00001 .
     
     bdr:C46  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:altLabel       "rgyal rtse lcang lo can (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "lcang lo can (sku drag)"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA1821358F3959300 , bdr:CMEA67E59ED14C8103 ;

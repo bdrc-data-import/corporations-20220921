@@ -30,7 +30,8 @@ bdg:C11MS214 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS214  a         :Corporation ;
-        skos:prefLabel      "rog"@bo-x-ewts , "Rok"@en-x-mixed ;
+        skos:altLabel       "Rok"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rog"@bo-x-ewts ;
         :corporationHasMember  bdr:CMFEAC82FD543737BE ;
         :isRoot             true ;
         :note               bdr:NT3D927A88FD344669 .

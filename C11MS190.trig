@@ -30,7 +30,8 @@ bdg:C11MS190 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS190  a         :Corporation ;
-        skos:prefLabel      "gnyos/"@bo-x-ewts , "Nyo"@en-x-mixed ;
+        skos:altLabel       "Nyo"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "gnyos/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM3C3D2C21F2F42586 , bdr:CMA7326F5E7BC7063E , bdr:CMC51F40965BBFCCB7 ;
         :isRoot             true ;
         :note               bdr:NTCAFB496AFD110420 .

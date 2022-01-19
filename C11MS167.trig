@@ -30,7 +30,8 @@ bdg:C11MS167 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS167  a         :Corporation ;
-        skos:prefLabel      "bal rigs/"@bo-x-ewts , "Bel"@en-x-mixed ;
+        skos:altLabel       "Bel"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "bal rigs/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM750CEC123E33CCD7 ;
         :isRoot             true .
     

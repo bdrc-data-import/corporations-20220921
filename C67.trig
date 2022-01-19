@@ -28,7 +28,7 @@ bdg:C67 {
         adm:logWho          bdu:U00001 .
     
     bdr:C67  a              :Corporation ;
-        rdfs:comment        "lineage" ;
+        rdfs:comment        "lineage"@en ;
         skos:altLabel       "lce gdung /"@bo-x-ewts , "zhwa lu sku zhang /"@bo-x-ewts ;
         skos:prefLabel      "sku zhang (zhwa lu)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM7369C88323E322A5 ;

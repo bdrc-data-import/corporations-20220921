@@ -30,7 +30,8 @@ bdg:C11MS177 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS177  a         :Corporation ;
-        skos:prefLabel      "bzhag"@bo-x-ewts , "Zhak"@en-x-mixed ;
+        skos:altLabel       "Zhak"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "bzhag"@bo-x-ewts ;
         :corporationHasMember  bdr:CME3AAAD85F286CBCC ;
         :isRoot             true ;
         :note               bdr:NTD8F803B0FFFF193D .

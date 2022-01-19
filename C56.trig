@@ -28,7 +28,7 @@ bdg:C56 {
         adm:logWho          bdu:U00001 .
     
     bdr:C56  a              :Corporation ;
-        rdfs:comment        "monastic college" ;
+        rdfs:comment        "monastic college"@en ;
         skos:prefLabel      "se ra byes grwa tshang /"@bo-x-ewts ;
         :isRoot             true ;
         :note               bdr:NT988E1040CD66C4F7 .

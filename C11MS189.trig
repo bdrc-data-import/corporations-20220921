@@ -30,7 +30,8 @@ bdg:C11MS189 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS189  a         :Corporation ;
-        skos:prefLabel      "glan/"@bo-x-ewts , "Len"@en-x-mixed ;
+        skos:altLabel       "Len"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "glan/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMF5020525E8F1AB51 ;
         :isRoot             true ;
         :note               bdr:NTC15757B066132887 .

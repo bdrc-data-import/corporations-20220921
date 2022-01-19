@@ -28,7 +28,7 @@ bdg:C31 {
         adm:logWho          bdu:U00001 .
     
     bdr:C31  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:prefLabel      "bhruM pa (sku drag)"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA369DFA5756FB150 , bdr:CMEB0A52632F07A8F1 ;
         :isRoot             true .

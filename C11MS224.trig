@@ -30,7 +30,8 @@ bdg:C11MS224 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS224  a         :Corporation ;
-        skos:prefLabel      "skyod/"@bo-x-ewts , "Kyo"@en-x-mixed ;
+        skos:altLabel       "Kyo"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "skyod/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM5CD434882C633B1D ;
         :isRoot             true ;
         :note               bdr:NT1FCA6354266BC305 .

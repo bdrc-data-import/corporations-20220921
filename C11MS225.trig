@@ -30,7 +30,8 @@ bdg:C11MS225 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS225  a         :Corporation ;
-        skos:prefLabel      "stag lung ga zi/"@bo-x-ewts , "Taklung"@en-x-mixed ;
+        skos:altLabel       "Taklung"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "stag lung ga zi/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM7799B1E9A52F5329 ;
         :isRoot             true .
     

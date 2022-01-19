@@ -30,7 +30,8 @@ bdg:C11MS227 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS227  a         :Corporation ;
-        skos:prefLabel      "zhi ba tshang /"@bo-x-ewts , "Zhiwatsang"@en-x-mixed ;
+        skos:altLabel       "Zhiwatsang"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "zhi ba tshang /"@bo-x-ewts ;
         :corporationHasMember  bdr:CMF0DDFCBFB994FB54 ;
         :isRoot             true ;
         :note               bdr:NT3A817666DD14C6FC .

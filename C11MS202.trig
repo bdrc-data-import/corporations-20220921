@@ -30,7 +30,8 @@ bdg:C11MS202 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS202  a         :Corporation ;
-        skos:prefLabel      "nyag shul/"@bo-x-ewts , "Nyakshul"@en-x-mixed ;
+        skos:altLabel       "Nyakshul"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "nyag shul/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMF7ACDC1721712C8F ;
         :isRoot             true ;
         :note               bdr:NT6F9D7E86708D4609 .

@@ -30,7 +30,8 @@ bdg:C11MS197 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS197  a         :Corporation ;
-        skos:prefLabel      "lcag khung /"@bo-x-ewts , "Chakhung"@en-x-mixed ;
+        skos:altLabel       "Chakhung"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "lcag khung /"@bo-x-ewts ;
         :corporationHasMember  bdr:CM304929EC6D2DA4C3 ;
         :isRoot             true ;
         :note               bdr:NT5F3367FDF5D6E0E7 .

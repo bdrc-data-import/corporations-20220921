@@ -30,8 +30,8 @@ bdg:C11MS212 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS212  a         :Corporation ;
-        skos:altLabel       "ngan lam/"@bo-x-ewts ;
-        skos:prefLabel      "rngan lam/"@bo-x-ewts , "Ngenlam"@en-x-mixed ;
+        skos:altLabel       "ngan lam/"@bo-x-ewts , "Ngenlam"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rngan lam/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM030140C41FCD7E0A , bdr:CMCF560B4F03307229 ;
         :isRoot             true ;
         :note               bdr:NT8AB62FA4B8957F56 .

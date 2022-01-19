@@ -33,7 +33,7 @@ bdg:C7 {
         adm:logWho          bdu:U00019 .
     
     bdr:C7  a               :Corporation ;
-        rdfs:comment        "yab gzhis family" ;
+        rdfs:comment        "yab gzhis family"@en ;
         skos:altLabel       "lha klu dga' tshal 2 (yab gzhis)"@bo-x-ewts ;
         skos:prefLabel      "lha klu 2 (yab gzhis)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM00D5D7F76FC3E409 , bdr:CM030D5BA06AF4F890 , bdr:CM41ED3B48BE3BD616 , bdr:CM521BBBB4E5C03A4F , bdr:CM63B18871C8FFDB3A , bdr:CMB24CF208868C61F5 , bdr:CMC8A23D1E9DDF2302 , bdr:CMCB862050ABFC3FFC , bdr:CMCF4B233A3985B6F7 , bdr:CMEDAA98B772244DFC ;

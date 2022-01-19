@@ -28,7 +28,7 @@ bdg:C53 {
         adm:logWho          bdu:U00001 .
     
     bdr:C53  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:prefLabel      "snang byung (sku drag)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM31D277CEF988A009 ;
         :isRoot             true .

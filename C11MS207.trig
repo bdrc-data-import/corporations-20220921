@@ -30,7 +30,8 @@ bdg:C11MS207 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS207  a         :Corporation ;
-        skos:prefLabel      "rgwa/"@bo-x-ewts , "Ga"@en-x-mixed ;
+        skos:altLabel       "Ga"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rgwa/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM53A727DA5B0B9EE1 ;
         :isRoot             true ;
         :note               bdr:NT32B58ED41EDC4AB7 .

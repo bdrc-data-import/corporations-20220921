@@ -30,8 +30,8 @@ bdg:C11MS169 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS169  a         :Corporation ;
-        skos:altLabel       "'bra/"@bo-x-ewts ;
-        skos:prefLabel      "dbra/"@bo-x-ewts , "Dra"@en-x-mixed ;
+        skos:altLabel       "'bra/"@bo-x-ewts , "Dra"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "dbra/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA9FCCED34F709F5A ;
         :isRoot             true .
     

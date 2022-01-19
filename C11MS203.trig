@@ -30,7 +30,8 @@ bdg:C11MS203 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS203  a         :Corporation ;
-        skos:prefLabel      "o bran/"@bo-x-ewts , "Odren"@en-x-mixed ;
+        skos:altLabel       "Odren"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "o bran/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM82A6A98D8CAA2E61 ;
         :isRoot             true ;
         :note               bdr:NTADC2B30B8E48E058 .

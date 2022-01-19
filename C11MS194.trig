@@ -30,7 +30,8 @@ bdg:C11MS194 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS194  a         :Corporation ;
-        skos:prefLabel      "khro kho nu ma'i dpal shul/"@bo-x-ewts , "Trokho Numai Pelshul"@en-x-mixed ;
+        skos:altLabel       "Trokho Numai Pelshul"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "khro kho nu ma'i dpal shul/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM553683DC337402DA ;
         :isRoot             true ;
         :note               bdr:NT4524A2FF37265863 .

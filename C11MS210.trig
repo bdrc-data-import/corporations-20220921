@@ -30,7 +30,8 @@ bdg:C11MS210 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS210  a         :Corporation ;
-        skos:prefLabel      "rnam sras gling /"@bo-x-ewts , "Namseling"@en-x-mixed ;
+        skos:altLabel       "Namseling"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rnam sras gling /"@bo-x-ewts ;
         :corporationHasMember  bdr:CMAF6ACE540ADE69CA ;
         :isRoot             true ;
         :note               bdr:NT595456B2D0A460CB .

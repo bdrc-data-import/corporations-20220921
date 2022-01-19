@@ -30,7 +30,8 @@ bdg:C11MS199 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS199  a         :Corporation ;
-        skos:prefLabel      "lo mi/"@bo-x-ewts , "Lomi"@en-x-mixed ;
+        skos:altLabel       "Lomi"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "lo mi/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMD171184DC6A424F8 ;
         :isRoot             true ;
         :note               bdr:NT5003C8D0C2E65EB6 .

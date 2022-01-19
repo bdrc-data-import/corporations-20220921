@@ -30,7 +30,8 @@ bdg:C11MS216 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS216  a         :Corporation ;
-        skos:prefLabel      "rtse gdong /"@bo-x-ewts , "Tsedong"@en-x-mixed ;
+        skos:altLabel       "Tsedong"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rtse gdong /"@bo-x-ewts ;
         :corporationHasMember  bdr:CM7C95B36C48A8709C ;
         :isRoot             true ;
         :note               bdr:NTB28E47E0B3433577 .

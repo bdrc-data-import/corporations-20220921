@@ -43,7 +43,7 @@ bdg:C12 {
         adm:logWho          bdu:U00019 .
     
     bdr:C12  a              :Corporation ;
-        rdfs:comment        "sde dpon family" ;
+        rdfs:comment        "sde dpon family"@en ;
         skos:prefLabel      "lha rgya ri (sde dpon)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM089EFDF426D50C9F , bdr:CM0D8FF7E756639000 , bdr:CM141BA134DD8613E0 , bdr:CM16521483C998CCC2 , bdr:CM175AA52D6154CA25 , bdr:CM19B28C3A1D2D5163 , bdr:CM21A64BE457897B79 , bdr:CM4459F9C1CE2B3492 , bdr:CM68FC97DAE06EDA53 , bdr:CM6DF77DF0AC721192 , bdr:CM7F336F8F5743D8BF , bdr:CM82DC8BE1EA85A23A , bdr:CM872002D2DF201AE8 , bdr:CM8ED8EEDE93A704F9 , bdr:CM9E4E1569619C0426 , bdr:CMAA892B2E5E2AF429 , bdr:CMADC94700F26CFACB , bdr:CMAE92FFB69809DC5D , bdr:CMC264D8CB5A826372 , bdr:CMC6C3E2949E2AD1EE , bdr:CMCDD52D7CCB2ECD45 ;
         :corporationRegion  bdr:G2397 ;

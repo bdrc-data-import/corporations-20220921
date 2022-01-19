@@ -28,7 +28,7 @@ bdg:C55 {
         adm:logWho          bdu:U00001 .
     
     bdr:C55  a              :Corporation ;
-        rdfs:comment        "incarnation estate" ;
+        rdfs:comment        "incarnation estate"@en ;
         skos:prefLabel      "mkhar rdo bla brang (se ra)"@bo-x-ewts ;
         :corporationRegion  bdr:G2128 ;
         :isRoot             true ;

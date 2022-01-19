@@ -30,7 +30,8 @@ bdg:C11MS168 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS168  a         :Corporation ;
-        skos:prefLabel      "ban/"@bo-x-ewts , "Ban"@en-x-mixed ;
+        skos:altLabel       "Ban"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "ban/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA5EA8FC8AE1A69E8 ;
         :isRoot             true ;
         :note               bdr:NT900BBC0CE1589A50 , bdr:NTADA32884D613A98E .

@@ -30,8 +30,8 @@ bdg:C11MS192 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS192  a         :Corporation ;
-        skos:altLabel       "bzi/"@bo-x-ewts ;
-        skos:prefLabel      "gzi/"@bo-x-ewts , "Zi"@en-x-mixed ;
+        skos:altLabel       "bzi/"@bo-x-ewts , "Zi"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "gzi/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM0AFDD8E563A39491 ;
         :isRoot             true ;
         :note               bdr:NTEF7F757B39D840E1 .

@@ -38,7 +38,7 @@ bdg:C4 {
         adm:logWho          bdu:U00001 .
     
     bdr:C4  a               :Corporation ;
-        rdfs:comment        "yab gzhis family" ;
+        rdfs:comment        "yab gzhis family"@en ;
         skos:prefLabel      "g.yu thog (yab gzhis)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM06B49600CE77D3FA , bdr:CM18DEFF18D1F4B72D , bdr:CM1CACA66A39F6E35F , bdr:CM2109E9EAD35BBED7 , bdr:CM2764281CBDDBCE15 , bdr:CM27A8C66250458610 , bdr:CM2937E6DB3FDE6EF2 , bdr:CM365CAA10AE499F59 , bdr:CM36F556DB5A7C917E , bdr:CM43F5A4B374186369 , bdr:CM4D5049607002AC18 , bdr:CM848083300D4AEFA9 , bdr:CM98FE46C76BE72FB4 , bdr:CMABEFEDE682BE7713 , bdr:CMC1A234A534DCBC10 , bdr:CMFFA32D46C4426C21 ;
         :isRoot             true ;

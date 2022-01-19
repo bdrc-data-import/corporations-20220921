@@ -30,7 +30,8 @@ bdg:C11MS208 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS208  a         :Corporation ;
-        skos:prefLabel      "rgyus/"@bo-x-ewts , "Gyu"@en-x-mixed ;
+        skos:altLabel       "Gyu"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rgyus/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMBE82331034188E0B ;
         :isRoot             true ;
         :note               bdr:NT8016D9886BF88A81 .

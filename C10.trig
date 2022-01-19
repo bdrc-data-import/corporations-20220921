@@ -33,7 +33,7 @@ bdg:C10 {
         adm:logWho          bdu:U00019 .
     
     bdr:C10  a              :Corporation ;
-        rdfs:comment        "sde dpon family" ;
+        rdfs:comment        "sde dpon family"@en ;
         skos:altLabel       "rag kha shar (sde dpon)"@bo-x-ewts ;
         skos:prefLabel      "mdo mkhar (sde dpon)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM006078498957EC94 , bdr:CM05C9720B7E92A78D , bdr:CM08B4206418A27620 , bdr:CM195CD87D0E1A87B0 , bdr:CM3F96E917BFB1B9E3 , bdr:CM4F8B5EDB472582DB , bdr:CM5D5CAB8951956028 , bdr:CM76A2A9095AAD8848 , bdr:CM78329E03E2AA6C45 , bdr:CM833375CC1701515B , bdr:CM84C6ADA40361C2B8 , bdr:CMB2CEDFC306192A38 , bdr:CMCC94357C8359872D , bdr:CMD6DFF8C18B6A13C0 , bdr:CMD767B86281966637 , bdr:CMDDC109BBA72D0CD1 , bdr:CMF9B13C13B31048EB ;

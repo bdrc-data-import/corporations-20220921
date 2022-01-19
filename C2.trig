@@ -33,7 +33,7 @@ bdg:C2 {
         adm:logWho          bdu:U00001 .
     
     bdr:C2  a               :Corporation ;
-        rdfs:comment        "yab gzhis family" ;
+        rdfs:comment        "yab gzhis family"@en ;
         skos:altLabel       "phun tshogs khang gsar (yab gzhis)"@bo-x-ewts ;
         skos:prefLabel      "phun khang (yab gzhis)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM06C29895FD2626A7 , bdr:CM2B72342C0B5EB988 , bdr:CM63DA09382CC1D5D0 , bdr:CMB7CBC559EE7793E4 , bdr:CMC821C0C368123F9C , bdr:CMF9B05AD3E2CB2F54 ;

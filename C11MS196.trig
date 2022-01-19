@@ -30,7 +30,8 @@ bdg:C11MS196 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS196  a         :Corporation ;
-        skos:prefLabel      "la gsum/"@bo-x-ewts , "Lasum"@en-x-mixed ;
+        skos:altLabel       "Lasum"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "la gsum/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA0AD63C1E20E5769 ;
         :isRoot             true ;
         :note               bdr:NTE8C7997242EFA41E .

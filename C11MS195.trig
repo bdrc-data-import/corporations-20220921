@@ -30,7 +30,8 @@ bdg:C11MS195 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS195  a         :Corporation ;
-        skos:prefLabel      "khyu mchog"@bo-x-ewts , "Kyuchok"@en-x-mixed ;
+        skos:altLabel       "Kyuchok"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "khyu mchog"@bo-x-ewts ;
         :corporationHasMember  bdr:CM59ADE14028BA6C52 ;
         :isRoot             true ;
         :note               bdr:NT0765290D0984DA68 .

@@ -30,7 +30,8 @@ bdg:C11MS215 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS215  a         :Corporation ;
-        skos:prefLabel      "rtse dbus byams shul/"@bo-x-ewts , "Tse-u Jamshul"@en-x-mixed ;
+        skos:altLabel       "Tse-u Jamshul"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rtse dbus byams shul/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM96373EB390CCF69D ;
         :isRoot             true ;
         :note               bdr:NT68143982268B632F .

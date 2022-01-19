@@ -30,7 +30,8 @@ bdg:C11MS182 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS182  a         :Corporation ;
-        skos:prefLabel      "dgyer/"@bo-x-ewts , "Gyer"@en-x-mixed ;
+        skos:altLabel       "Gyer"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "dgyer/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM446B4F68C55BF40B ;
         :isRoot             true ;
         :note               bdr:NT3E2D2C01205A7B92 .

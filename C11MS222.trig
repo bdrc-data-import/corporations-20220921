@@ -30,7 +30,8 @@ bdg:C11MS222 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS222  a         :Corporation ;
-        skos:prefLabel      "shing khams sga"@bo-x-ewts , "Shing Khamga"@en-x-mixed ;
+        skos:altLabel       "Shing Khamga"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "shing khams sga"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA1A5DB24A5F8D153 ;
         :isRoot             true ;
         :note               bdr:NT94127BB1F4307279 .

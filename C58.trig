@@ -28,7 +28,7 @@ bdg:C58 {
         adm:logWho          bdu:U00001 .
     
     bdr:C58  a              :Corporation ;
-        rdfs:comment        "tribal ruling family" ;
+        rdfs:comment        "tribal ruling family"@en ;
         skos:prefLabel      "khang gsar tshang (dkar mdzes)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM57C65E65297A9D37 ;
         :corporationRegion  bdr:G1538 ;

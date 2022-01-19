@@ -30,7 +30,8 @@ bdg:C11MS176 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS176  a         :Corporation ;
-        skos:prefLabel      "bya nag"@bo-x-ewts , "Janak"@en-x-mixed ;
+        skos:altLabel       "Janak"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "bya nag"@bo-x-ewts ;
         :corporationHasMember  bdr:CME4C600C300FE2956 ;
         :isRoot             true ;
         :note               bdr:NTC734B7EA0BA165A5 .

@@ -42,8 +42,8 @@ bdg:C11MS186 {
         adm:logWho          bdu:U00004 .
     
     bdr:C11MS186  a         :Corporation ;
-        skos:altLabel       "'bro/"@bo-x-ewts ;
-        skos:prefLabel      "gro/"@bo-x-ewts , "Dro"@en-x-mixed ;
+        skos:altLabel       "'bro/"@bo-x-ewts , "Dro"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "gro/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMA2A42918AA5035CD ;
         :isRoot             true ;
         :note               bdr:NTF8E10AA91500B5B0 .

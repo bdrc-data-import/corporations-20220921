@@ -30,7 +30,8 @@ bdg:C11MS174 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS174  a         :Corporation ;
-        skos:prefLabel      "bse/"@bo-x-ewts , "Se"@en-x-mixed ;
+        skos:altLabel       "Se"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "bse/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM9783DD744A5E12D8 ;
         :isRoot             true ;
         :note               bdr:NT44BA2C2B76DC5DEE .

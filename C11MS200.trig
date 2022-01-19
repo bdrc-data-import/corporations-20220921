@@ -30,7 +30,8 @@ bdg:C11MS200 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS200  a         :Corporation ;
-        skos:prefLabel      "lo nang /"@bo-x-ewts , "Lonang"@en-x-mixed ;
+        skos:altLabel       "Lonang"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "lo nang /"@bo-x-ewts ;
         :corporationHasMember  bdr:CM768A76A0DB9D1C76 ;
         :isRoot             true .
     

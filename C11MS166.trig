@@ -30,7 +30,8 @@ bdg:C11MS166 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS166  a         :Corporation ;
-        skos:prefLabel      "a zha/"@bo-x-ewts , "Azha"@en-x-mixed ;
+        skos:altLabel       "Azha"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "a zha/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM948F278C027D6E9C ;
         :isRoot             true ;
         :note               bdr:NT8A4C4B7E3D6CA35D .

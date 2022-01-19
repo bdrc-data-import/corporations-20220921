@@ -30,7 +30,8 @@ bdg:C11MS164 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS164  a         :Corporation ;
-        skos:prefLabel      "a gro/"@bo-x-ewts , "Adro"@en-x-mixed ;
+        skos:altLabel       "Adro"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "a gro/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM5E38E60B7A4B945C ;
         :isRoot             true ;
         :note               bdr:NTD127FD3C93BFE8DA .

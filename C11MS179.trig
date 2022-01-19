@@ -30,7 +30,8 @@ bdg:C11MS179 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS179  a         :Corporation ;
-        skos:prefLabel      "dbal shul/"@bo-x-ewts , "Welshul"@en-x-mixed ;
+        skos:altLabel       "Welshul"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "dbal shul/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMF060ADCD601E58C9 ;
         :isRoot             true ;
         :note               bdr:NTF079A22228C54C2D .

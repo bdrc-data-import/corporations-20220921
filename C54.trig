@@ -28,7 +28,7 @@ bdg:C54 {
         adm:logWho          bdu:U00001 .
     
     bdr:C54  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:prefLabel      "zhwa sgab pa (sku drag)"@bo-x-ewts ;
         :corporationRegion  bdr:G2128 ;
         :isRoot             true ;

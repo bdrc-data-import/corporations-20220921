@@ -44,7 +44,7 @@ bdg:C16 {
         adm:logWho          bdu:U00019 .
     
     bdr:C16  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:prefLabel      "skyid stod (sku drag)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM29D425B4D2FC757E , bdr:CM858DA2849664F6CE ;
         :corporationRegion  bdr:G555 ;

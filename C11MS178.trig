@@ -30,7 +30,8 @@ bdg:C11MS178 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS178  a         :Corporation ;
-        skos:prefLabel      "bzi ra/"@bo-x-ewts , "Zira"@en-x-mixed ;
+        skos:altLabel       "Zira"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "bzi ra/"@bo-x-ewts ;
         :corporationHasMember  bdr:CME74F2359822EC485 ;
         :isRoot             true ;
         :note               bdr:NT1CE588429B4694A7 .

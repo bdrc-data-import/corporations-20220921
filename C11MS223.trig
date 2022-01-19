@@ -30,7 +30,8 @@ bdg:C11MS223 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS223  a         :Corporation ;
-        skos:prefLabel      "skya su/"@bo-x-ewts , "Kyasu"@en-x-mixed ;
+        skos:altLabel       "Kyasu"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "skya su/"@bo-x-ewts ;
         :corporationHasMember  bdr:CME79914D2A8F11440 ;
         :isRoot             true ;
         :note               bdr:NT0E7CEEB1E5F8F5CA .

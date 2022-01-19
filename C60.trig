@@ -28,7 +28,7 @@ bdg:C60 {
         adm:logWho          bdu:U00001 .
     
     bdr:C60  a              :Corporation ;
-        rdfs:comment        "lineage" ;
+        rdfs:comment        "lineage"@en ;
         skos:prefLabel      "dgyer rigs/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM0D8FD11BC6771614 ;
         :isRoot             true .

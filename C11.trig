@@ -33,7 +33,7 @@ bdg:C11 {
         adm:logWho          bdu:U00019 .
     
     bdr:C11  a              :Corporation ;
-        rdfs:comment        "sde dpon family" ;
+        rdfs:comment        "sde dpon family"@en ;
         skos:altLabel       "pha jo lha khang pa (sde dpon)"@bo-x-ewts ;
         skos:prefLabel      "pha lha (sde dpon)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM0B3D9A256EB766BA , bdr:CM12FC043F595BA302 , bdr:CM1366B17EA7315732 , bdr:CM42C98ABD6080F720 , bdr:CM4DBED1CABDCA40EF , bdr:CM55BBE9BA6E32F7E0 , bdr:CM88E28E881D100522 , bdr:CM903836145E541C4C , bdr:CM9791FE8CBB03BD83 , bdr:CMBE368278756B6E30 , bdr:CMD74E86C630A76187 , bdr:CMEF903BB8E530EBA0 ;

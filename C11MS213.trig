@@ -30,7 +30,8 @@ bdg:C11MS213 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS213  a         :Corporation ;
-        skos:prefLabel      "rngu pa/"@bo-x-ewts , "Ngupa"@en-x-mixed ;
+        skos:altLabel       "Ngupa"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rngu pa/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM847B2963DD722EB4 ;
         :isRoot             true ;
         :note               bdr:NT67F2630ABF2AE571 .

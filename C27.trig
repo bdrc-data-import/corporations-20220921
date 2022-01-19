@@ -28,7 +28,7 @@ bdg:C27 {
         adm:logWho          bdu:U00001 .
     
     bdr:C27  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:altLabel       "pu shud phun khang (sku drag)"@bo-x-ewts , "spo shod phun khang (sku drag)"@bo-x-ewts , "spo shod phun tshogs khang gsar (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "byang ngos pa (sku drag)"@bo-x-ewts ;
         :isRoot             true .

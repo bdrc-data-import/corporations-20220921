@@ -30,7 +30,8 @@ bdg:C11MS209 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS209  a         :Corporation ;
-        skos:prefLabel      "rme'u/"@bo-x-ewts , "Me'u"@en-x-mixed ;
+        skos:altLabel       "Me'u"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "rme'u/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM6516E5CDFB97D33D , bdr:CMBCE0B2621B6CF768 ;
         :isRoot             true ;
         :note               bdr:NT271A56FA93DC492A .

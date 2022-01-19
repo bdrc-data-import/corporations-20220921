@@ -30,7 +30,8 @@ bdg:C11MS220 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS220  a         :Corporation ;
-        skos:prefLabel      "sgo"@bo-x-ewts , "Go"@en-x-mixed ;
+        skos:altLabel       "Go"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "sgo"@bo-x-ewts ;
         :corporationHasMember  bdr:CM23A1AA5A3F525A61 , bdr:CM93916E7D6EF7554E ;
         :isRoot             true ;
         :note               bdr:NT0872D16208D92566 .

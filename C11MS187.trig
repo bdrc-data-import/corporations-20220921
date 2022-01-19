@@ -30,7 +30,8 @@ bdg:C11MS187 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS187  a         :Corporation ;
-        skos:prefLabel      "g.yi/"@bo-x-ewts , "Yi"@en-x-mixed ;
+        skos:altLabel       "Yi"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "g.yi/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM8687FE82CBE12722 ;
         :isRoot             true ;
         :note               bdr:NT4929D4E7A150977A .

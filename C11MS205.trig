@@ -30,7 +30,8 @@ bdg:C11MS205 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS205  a         :Corporation ;
-        skos:prefLabel      "pra ti zhwa dmar rigs/"@bo-x-ewts , "Tati Zhamar"@en-x-mixed ;
+        skos:altLabel       "Tati Zhamar"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "pra ti zhwa dmar rigs/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMEDBD8D9937C29559 ;
         :isRoot             true .
     

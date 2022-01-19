@@ -30,7 +30,8 @@ bdg:C11MS180 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS180  a         :Corporation ;
-        skos:prefLabel      "dbang da/"@bo-x-ewts , "Wangla"@en-x-mixed ;
+        skos:altLabel       "Wangla"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "dbang da/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM353B5D97832A540C ;
         :isRoot             true ;
         :note               bdr:NT71AA749D3E951F1B .

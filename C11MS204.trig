@@ -30,8 +30,8 @@ bdg:C11MS204 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS204  a         :Corporation ;
-        skos:altLabel       "Pakpa Tsang"@en-x-mixed ;
-        skos:prefLabel      "phags pa tshang"@en-x-mixed ;
+        skos:altLabel       "Pakpa Tsang"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "phags pa tshang"@bo-x-phon-en-m-tbrc ;
         :corporationHasMember  bdr:CMD70B54D5B5E59755 ;
         :isRoot             true ;
         :note               bdr:NT86CA1ECCD8DBDF16 .

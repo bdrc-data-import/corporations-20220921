@@ -47,7 +47,7 @@ bdg:C1KT11 {
         adm:logWho          bdu:U00019 .
     
     bdr:C1KT11  a           :Corporation ;
-        rdfs:comment        "lineage" ;
+        rdfs:comment        "lineage"@en ;
         skos:prefLabel      "gnya'"@bo-x-ewts , "Nya"@en-x-mixed ;
         :corporationHasMember  bdr:CM322DCC0ED907BA77 ;
         :isRoot             true ;

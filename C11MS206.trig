@@ -30,7 +30,8 @@ bdg:C11MS206 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS206  a         :Corporation ;
-        skos:prefLabel      "ram/"@bo-x-ewts , "Ram"@en-x-mixed ;
+        skos:altLabel       "Ram"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "ram/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMAD198E902E2EDF5D ;
         :isRoot             true ;
         :note               bdr:NT519B08EF77BD68A7 .

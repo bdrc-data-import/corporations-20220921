@@ -28,7 +28,7 @@ bdg:C59 {
         adm:logWho          bdu:U00001 .
     
     bdr:C59  a              :Corporation ;
-        rdfs:comment        "lineage" ;
+        rdfs:comment        "lineage"@en ;
         skos:prefLabel      "sga gdung /"@bo-x-ewts ;
         :corporationHasMember  bdr:CMBBF66AAE2B09FD01 ;
         :isRoot             true .

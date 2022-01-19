@@ -36,7 +36,7 @@ bdg:C10MS14281 {
         adm:logWho          bdu:U00016 .
     
     bdr:C10MS14281  a       :Corporation ;
-        rdfs:comment        "the seat of the government of the dalai lamas in lhasa. the palace, at 'bras spungs monastery, was given to the second dala'i lama, dge 'dun rgya mtsho, by the phag mo gru pa heirarch in 1518." ;
+        rdfs:comment        "the seat of the government of the dalai lamas in lhasa. the palace, at 'bras spungs monastery, was given to the second dala'i lama, dge 'dun rgya mtsho, by the phag mo gru pa heirarch in 1518."@en ;
         skos:prefLabel      "dga' ldan pho brang /"@bo-x-ewts ;
         :isRoot             true .
 }

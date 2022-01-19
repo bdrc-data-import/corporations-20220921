@@ -30,7 +30,8 @@ bdg:C11MS173 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS173  a         :Corporation ;
-        skos:prefLabel      "brog mi/"@bo-x-ewts , "Drokmi"@en-x-mixed ;
+        skos:altLabel       "Drokmi"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "brog mi/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMEF8C1443AB1764B4 ;
         :isRoot             true ;
         :note               bdr:NT6575A8C3BA1E35EC .

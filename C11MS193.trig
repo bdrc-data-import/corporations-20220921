@@ -30,7 +30,8 @@ bdg:C11MS193 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS193  a         :Corporation ;
-        skos:prefLabel      "ju/"@bo-x-ewts , "Ju"@en-x-mixed ;
+        skos:altLabel       "Ju"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "ju/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM4D31976C4808E267 ;
         :isRoot             true ;
         :note               bdr:NT38EB13D676D3E7FF .

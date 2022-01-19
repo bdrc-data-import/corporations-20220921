@@ -30,7 +30,8 @@ bdg:C11MS219 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS219  a         :Corporation ;
-        skos:prefLabel      "sde pa mthon po/"@bo-x-ewts , "Depa Tonpo"@en-x-mixed ;
+        skos:altLabel       "Depa Tonpo"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "sde pa mthon po/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM89D2D850BA03B202 ;
         :isRoot             true ;
         :note               bdr:NTB0481DA5B7F9AAE7 .

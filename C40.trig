@@ -28,7 +28,7 @@ bdg:C40 {
         adm:logWho          bdu:U00001 .
     
     bdr:C40  a              :Corporation ;
-        rdfs:comment        "yab gzhis family" ;
+        rdfs:comment        "yab gzhis family"@en ;
         skos:prefLabel      "ram pa (sku drag)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM1E702B006B6C4ED5 ;
         :isRoot             true .

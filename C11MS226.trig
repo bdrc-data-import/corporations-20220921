@@ -30,7 +30,8 @@ bdg:C11MS226 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS226  a         :Corporation ;
-        skos:prefLabel      "thon mi/"@bo-x-ewts , "Tonmi"@en-x-mixed ;
+        skos:altLabel       "Tonmi"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "thon mi/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM9CF7795D92C6A491 ;
         :isRoot             true ;
         :note               bdr:NTEA9600631D60CB0A .

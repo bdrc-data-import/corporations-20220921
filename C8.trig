@@ -33,7 +33,7 @@ bdg:C8 {
         adm:logWho          bdu:U00019 .
     
     bdr:C8  a               :Corporation ;
-        rdfs:comment        "sde dpon family" ;
+        rdfs:comment        "sde dpon family"@en ;
         skos:altLabel       "rdo ring (sde dpon)"@bo-x-ewts ;
         skos:prefLabel      "dga' bzhi (sde dpon)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM10140824F6CA06EE , bdr:CM267208A255CF48C8 , bdr:CM325968A62E40D87A , bdr:CM465B144A0ABDCA7C , bdr:CM576EAFB38DF07911 , bdr:CM599B014FB9C3038C , bdr:CM5CC40FC3B8248180 , bdr:CM5E3AD886D51BD709 , bdr:CM65C394A74211A1B6 , bdr:CM78C4F6E725A1D65C , bdr:CM9BC73220BEAE3BF5 , bdr:CMAC5B392A9264D43E , bdr:CMACB3E44BBCAE9C8A , bdr:CMD20E0B84E7FB33BE , bdr:CMEBCF6AECEC3D0A53 ;

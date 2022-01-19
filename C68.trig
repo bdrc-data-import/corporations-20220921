@@ -40,7 +40,7 @@ bdg:C68 {
         adm:logWho          bdu:U00022 .
     
     bdr:C68  a              :Corporation ;
-        rdfs:comment        "sde dpon family" ;
+        rdfs:comment        "sde dpon family"@en ;
         skos:altLabel       "shar ka pa/"@bo-x-ewts ;
         skos:prefLabel      "rgyal rtse shar kha/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM1EC4B051A465B044 , bdr:CM7BA5032017ECD411 ;

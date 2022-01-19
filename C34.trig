@@ -28,7 +28,7 @@ bdg:C34 {
         adm:logWho          bdu:U00001 .
     
     bdr:C34  a              :Corporation ;
-        rdfs:comment        "sku drag family" ;
+        rdfs:comment        "sku drag family"@en ;
         skos:altLabel       "sman khab stod pa (sku drag)"@bo-x-ewts ;
         skos:prefLabel      "sman stod (sku drag)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM31D9CA8E0FFE43F7 , bdr:CM389E19E44B74A6DC , bdr:CMC9BC3F992FF27938 ;

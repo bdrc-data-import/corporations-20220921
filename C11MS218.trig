@@ -30,7 +30,8 @@ bdg:C11MS218 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS218  a         :Corporation ;
-        skos:prefLabel      "sbi tsha/"@bo-x-ewts , "Bitsa"@en-x-mixed ;
+        skos:altLabel       "Bitsa"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "sbi tsha/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM83FE471154D216C1 ;
         :isRoot             true ;
         :note               bdr:NTE7EC0AD00FC4E7BC .

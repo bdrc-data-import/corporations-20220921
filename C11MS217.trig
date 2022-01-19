@@ -36,7 +36,8 @@ bdg:C11MS217 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS217  a         :Corporation ;
-        skos:prefLabel      "sa gnam/"@bo-x-ewts , "Sanam"@en-x-mixed ;
+        skos:altLabel       "Sanam"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "sa gnam/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM9E861BE34CA827B4 ;
         :isRoot             true ;
         :note               bdr:NT29E07AF85AEF0852 .

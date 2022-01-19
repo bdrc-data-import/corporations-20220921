@@ -30,7 +30,8 @@ bdg:C11MS181 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS181  a         :Corporation ;
-        skos:prefLabel      "dbra dkar po/"@bo-x-ewts , "Rakarpo"@en-x-mixed ;
+        skos:altLabel       "Rakarpo"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "dbra dkar po/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMC9F0F79D58A26339 ;
         :isRoot             true ;
         :note               bdr:NTE57C8F031E2F4E3A .

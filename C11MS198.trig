@@ -30,7 +30,8 @@ bdg:C11MS198 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS198  a         :Corporation ;
-        skos:prefLabel      "lce/"@bo-x-ewts , "Che"@en-x-mixed ;
+        skos:altLabel       "Che"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "lce/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMB42D55307B0B18E1 ;
         :isRoot             true ;
         :note               bdr:NTE16AD212E4A914B3 .

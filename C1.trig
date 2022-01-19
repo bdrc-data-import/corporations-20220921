@@ -38,7 +38,7 @@ bdg:C1 {
         adm:logWho          bdu:U00019 .
     
     bdr:C1  a               :Corporation ;
-        rdfs:comment        "yab gzhis family" ;
+        rdfs:comment        "yab gzhis family"@en ;
         skos:prefLabel      "glang mdun (yab gzhis)"@bo-x-ewts ;
         :corporationHasMember  bdr:CM2B0540E276FB5DC4 , bdr:CM8166D8F547C8220F , bdr:CMB71EF278AA02337E , bdr:CMDCD0949DAFDA27BD , bdr:CME4512919AE9C9D8E , bdr:CMEC1DABC290BE0775 ;
         :corporationRegion  bdr:G1390 ;

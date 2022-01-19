@@ -30,7 +30,8 @@ bdg:C11MS171 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS171  a         :Corporation ;
-        skos:prefLabel      "brang ti/"@bo-x-ewts , "Drangti"@en-x-mixed ;
+        skos:altLabel       "Drangti"@bo-x-phon-en-m-tbrc ;
+        skos:prefLabel      "brang ti/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM69A404D7D463E910 ;
         :isRoot             true ;
         :note               bdr:NT8BF0846DB02FB286 .
