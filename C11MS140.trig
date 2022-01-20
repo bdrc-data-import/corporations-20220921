@@ -30,7 +30,7 @@ bdg:C11MS140 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS140  a         :Corporation ;
-        skos:altLabel       "dbra gdung rgyud/"@bo-x-ewts , "Wra/"@bo-x-ewts ;
+        skos:altLabel       "dbra gdung rgyud/"@bo-x-ewts , "Wra"@bo-x-phon-en ;
         skos:prefLabel      "dbra rigs/"@bo-x-ewts , "Dra Clan"@en ;
         :isRoot             true ;
         :note               bdr:NT13DE98B9B0458CE2 .

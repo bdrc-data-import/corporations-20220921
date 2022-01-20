@@ -36,7 +36,7 @@ bdg:C11MS137 {
         adm:logWho          bdu:U00020 .
     
     bdr:C11MS137  a         :Corporation ;
-        skos:altLabel       "Begu/"@bo-x-ewts ;
+        skos:altLabel       "Begu"@bo-x-phon-en-m-tbrc ;
         skos:prefLabel      "be gu/"@bo-x-ewts ;
         :corporationHasMember  bdr:CM8E06B30991C94780 ;
         :isRoot             true ;

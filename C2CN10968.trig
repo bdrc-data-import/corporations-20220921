@@ -42,7 +42,7 @@ bdg:C2CN10968 {
         adm:logWho          bdu:U00020 .
     
     bdr:C2CN10968  a        :Corporation ;
-        skos:altLabel       "mtsho sngon thu'u bkwan rigs/"@bo-x-ewts , "Tukwan/"@bo-x-ewts ;
+        skos:altLabel       "mtsho sngon thu'u bkwan rigs/"@bo-x-ewts , "Tukwan"@bo-x-phon-en-m-tbrc ;
         skos:prefLabel      "thu'u bkwan rigs/"@bo-x-ewts ;
         :corporationHasMember  bdr:CMBC3F96096C074796 ;
         :isRoot             true ;
